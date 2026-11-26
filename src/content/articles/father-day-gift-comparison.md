@@ -160,8 +160,8 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fmaido-selection%2F014-209.html"
         matchStatus: "pending"
-        updatedAt: "2026-11-19"
-        price: 4880
+        updatedAt: "2026-11-26"
+        price: 4380
         rating: 4.67
         reviewCount: 3
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/maido-selection_014-209"

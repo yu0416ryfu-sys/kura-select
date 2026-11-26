@@ -4,7 +4,7 @@ description: "子ども用歯磨き粉をフッ素濃度・年齢別に徹底比
 category: "toothpaste"
 publishedAt: "2026-04-30"
 articleType: "comparison"
-updatedAt: "2026-11-19"
+updatedAt: "2026-11-26"
 products:
   - rank: 1
     name: "ライオン クリニカキッズ ジェルハミガキ いちご 60g×10点セット"
@@ -36,7 +36,7 @@ products:
     capacity: "60g×3本（180g）"
     pricePerUnit: "約7.3円/g"
     rating: 4.7
-    reviewCount: 369
+    reviewCount: 370
     features:
       - "フッ素950ppm（メーカー公表。グレープ・ストロベリー・アップル。ぶどう味の kodomo 500 は500ppm）"
       - "低研磨・低発泡・低香味のソフトペースト"
@@ -50,7 +50,7 @@ products:
       - "味で濃度が変わる（ぶどうは500ppmの別商品）ので、パッケージの表示を確かめたい"
     recommendedFor: "3〜5歳で、濃度の数字を見て900〜1000ppmを選びたい家庭"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r6h3n.3rdw6e54.g00r6h3n.3rdw719f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fd-fit%2Fyyyy92%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fd-fit%2Fi%2F10008680%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/d-fit/cabinet/2026_1119_p10/kirikae3/yyyy92.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/d-fit/cabinet/13453622/yyyy92.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
@@ -203,7 +203,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsundrugec%2F4902508104463.html"
         matchStatus: "matched"
-        updatedAt: "2026-11-17"
+        updatedAt: "2026-11-26"
         price: 485
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/sundrugec_4902508104463"
         available: true
@@ -216,7 +216,7 @@ products:
     price: 550
     capacity: "48ml"
     rating: 4.28
-    reviewCount: 260
+    reviewCount: 262
     features:
       - "フッ素無添加の泡歯磨き粉（医薬部外品。有効成分は CPC とグリチルリチン酸ジカリウム）。ぶどう味・48mL"
       - "メーカーの目安は3歳から。付属のU字型歯ブラシ「ゆらしー」は2〜7歳向け"

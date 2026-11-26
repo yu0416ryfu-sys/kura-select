@@ -4,9 +4,43 @@ description: "Sサイズのテープ型紙おむつを1枚あたりの価格で�
 category: "diaper"
 publishedAt: "2026-05-16"
 articleType: "comparison"
-updatedAt: "2026-11-24"
+updatedAt: "2026-11-26"
 products:
   - rank: 1
+    name: "パンパース テープ Sサイズ 74枚×4袋"
+    brand: "P&G（パンパース）"
+    price: 7180
+    capacity: "74枚×4袋（296枚）"
+    rating: 4.71
+    reviewCount: 72
+    features:
+      - "世界No.1シェアの信頼ブランド"
+      - "肌のpHバランスを考慮した処方"
+      - "おしりふき1回分（無香）サンプル付き商品も"
+    pros:
+      - "世界中で使われている信頼性の高いブランド"
+      - "肌への配慮が高く赤ちゃんの肌研究に基づいた設計"
+      - "産院採用率が高く退院後もそのまま使える"
+    cons:
+      - "国産ブランドと比べると価格がやや高め"
+      - "4袋での枚数が他社より少ない（74枚×4袋）"
+    recommendedFor: "産院でパンパースを使っていた方・世界基準の品質を求める方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qe9yn.3rdw6bb4.g00qe9yn.3rdw7db4/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmamababy%2F7252901%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmamababy%2Fi%2F10193037%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/mamababy/cabinet/tasya108/imgrc0116993733.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fitsumomart%2F1-pp-134295-case.html"
+        matchStatus: "pending"
+        updatedAt: "2026-06-25"
+        price: 7020
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/itsumomart_1-pp-134295-case"
+        available: true
+        rating: 4.79
+        reviewCount: 140
+    genreId: "205198"
+    pricePerUnit: "約24円/枚"
+  - rank: 2
     name: "ムーニー テープ Sサイズ"
     brand: "ムーニー（ユニ・チャーム）"
     price: 1757
@@ -40,7 +74,7 @@ products:
         reviewCount: 2
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/rd-lohaco_hk42805"
         available: true
-  - rank: 2
+  - rank: 3
     name: "ムーニー マシュマロ肌ごこち テープ Sサイズ 70枚×4袋"
     brand: "ユニ・チャーム（ムーニー）"
     price: 6920
@@ -67,14 +101,14 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Funicharm-yp%2F100642.html"
         matchStatus: "pending"
-        updatedAt: "2026-11-24"
+        updatedAt: "2026-11-26"
         price: 7084
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/unicharm-yp_100642"
         available: true
         rating: 4.75
         reviewCount: 56
     genreId: "551689"
-  - rank: 3
+  - rank: 4
     name: "ムーニー マシュマロ肌ごこち モレ安心 テープ S 70枚"
     brand: "ユニ・チャーム（ムーニー）"
     price: 1804
@@ -108,7 +142,7 @@ products:
         rating: 0
         reviewCount: 1
     genreId: "205198"
-  - rank: 4
+  - rank: 5
     name: "ムーニー 低刺激であんしん 紙おむつ テープ"
     brand: "ユニ・チャーム（ムーニーナチュラル）"
     price: 7158
@@ -142,7 +176,7 @@ products:
         rating: 0
         reviewCount: 0
     genreId: "205198"
-  - rank: 5
+  - rank: 6
     name: "メリーズ ずっと肌さらエアスルー テープ Sサイズ 62枚"
     brand: "花王（メリーズ）"
     price: 2090
@@ -176,7 +210,7 @@ products:
         reviewCount: 1
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/sundrugec_4901301437709"
         available: true
-  - rank: 6
+  - rank: 7
     name: "パンパース はじめての肌へのいちばん テープ Sサイズ 132枚"
     brand: "P&G（パンパース）"
     price: 5699
@@ -209,39 +243,6 @@ products:
         available: true
         rating: 0
         reviewCount: 2
-    genreId: "205198"
-  - rank: 7
-    name: "パンパース テープ Sサイズ 74枚×4袋"
-    brand: "P&G（パンパース）"
-    price: 7180
-    capacity: "74枚×4袋（296枚）"
-    rating: 4.71
-    reviewCount: 72
-    features:
-      - "世界No.1シェアの信頼ブランド"
-      - "肌のpHバランスを考慮した処方"
-      - "おしりふき1回分（無香）サンプル付き商品も"
-    pros:
-      - "世界中で使われている信頼性の高いブランド"
-      - "肌への配慮が高く赤ちゃんの肌研究に基づいた設計"
-      - "産院採用率が高く退院後もそのまま使える"
-    cons:
-      - "国産ブランドと比べると価格がやや高め"
-      - "4袋での枚数が他社より少ない（74枚×4袋）"
-    recommendedFor: "産院でパンパースを使っていた方・世界基準の品質を求める方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qe9yn.3rdw6bb4.g00qe9yn.3rdw7db4/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmamababy%2F7252901%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmamababy%2Fi%2F10193037%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/mamababy/cabinet/tasya108/imgrc0116993733.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fitsumomart%2F1-pp-134295-case.html"
-        matchStatus: "pending"
-        updatedAt: "2026-06-25"
-        price: 7020
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/itsumomart_1-pp-134295-case"
-        available: true
-        rating: 4.79
-        reviewCount: 140
     genreId: "205198"
 tags:
   - "Sサイズ おむつ"

@@ -4,7 +4,7 @@ description: "サントリー・アサヒ・エビアンなど人気の天然水
 category: "mineral-water"
 publishedAt: "2026-05-23"
 articleType: "comparison"
-updatedAt: "2026-11-24"
+updatedAt: "2026-11-26"
 draft: false
 products:
   - rank: 1
@@ -33,9 +33,9 @@ products:
   - rank: 2
     name: "アサヒ おいしい水 天然水 ラベルレスボトル 2L×9本"
     brand: "アサヒ飲料"
-    price: 1643
+    price: 1693
     capacity: "2L×9本（18L）"
-    pricePerUnit: "約91円/L"
+    pricePerUnit: "約94円/L"
     rating: 4.43
     reviewCount: 23
     features:
@@ -60,7 +60,7 @@ products:
     capacity: "500mL×24本（12L）"
     pricePerUnit: "約109円/L"
     rating: 4.69
-    reviewCount: 2548
+    reviewCount: 2560
     features:
       - "飲み切りやすい500mLサイズ・24本入り"
       - "楽天市場限定販売のオリジナル天然水"

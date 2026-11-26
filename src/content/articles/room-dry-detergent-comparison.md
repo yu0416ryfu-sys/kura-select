@@ -4,7 +4,7 @@ description: "部屋干し用の洗濯洗剤とドライマーク用洗剤を容
 category: "laundry-detergent"
 publishedAt: "2026-04-30"
 articleType: "comparison"
-updatedAt: "2026-11-23"
+updatedAt: "2026-11-26"
 products:
   - rank: 1
     name: "アタック 抗菌EX 部屋干し用 つめかえ用 2030g"
@@ -211,7 +211,7 @@ products:
     capacity: "500g"
     pricePerUnit: "約8.0円/g"
     rating: 4.68
-    reviewCount: 572
+    reviewCount: 573
     features:
       - "ドライマーク衣類を洗える中性の液体洗剤（毛・絹・綿・麻・合成繊維用）"
       - "販売ページで1000gの高級洗剤より洗浄力・柔らかさを低く表示したスタンダードタイプ"

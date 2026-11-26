@@ -4,7 +4,7 @@ description: "マウスウォッシュを1mLあたりのコストで徹底比較
 category: "mouthwash"
 publishedAt: "2026-05-01"
 articleType: "comparison"
-updatedAt: "2026-11-24"
+updatedAt: "2026-11-26"
 products:
   - rank: 1
     name: "薬用リステリン トータルケアプラス 1000mL×4本"
@@ -146,9 +146,9 @@ products:
   - rank: 5
     name: "薬用リステリン トータルケアゼロプラス 1000mL×6本"
     brand: "ジョンソン・エンド・ジョンソン（リステリン）"
-    price: 7267
+    price: 6600
     capacity: "1000mL×6本（6000mL）"
-    pricePerUnit: "約1.2円/mL"
+    pricePerUnit: "約1.1円/mL"
     rating: 3
     reviewCount: 2
     features:
@@ -163,8 +163,8 @@ products:
       - "アルコール配合タイプと比べると爽快感がやや控えめ"
       - "6本セットのため保管スペースが必要"
     recommendedFor: "リステリンを試したいがアルコール刺激が不安な方・まとめ買いでコストを抑えたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ru0on.3rdw60b7.g00ru0on.3rdw7edf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fat-life%2F4901730160766-6%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fat-life%2Fi%2F10652354%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/at-life/cabinet/201806a/4901730160766.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qd6jn.3rdw6a70.g00qd6jn.3rdw7112/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkusurinokiyoshi%2F10018313%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkusurinokiyoshi%2Fi%2F10018313%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kusurinokiyoshi/cabinet/00703225/04642501/160766.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
@@ -276,7 +276,7 @@ products:
     capacity: "100mL（約700回分）"
     pricePerUnit: "約23円/mL"
     rating: 4.75
-    reviewCount: 645
+    reviewCount: 646
     features:
       - "歯科医院でも販売されている薬用マウスウォッシュ"
       - "殺菌成分グルコン酸クロルヘキシジン配合"
@@ -290,7 +290,7 @@ products:
       - "薄める手間がある"
     recommendedFor: "歯科医院でも扱われる定番品を選びたい方・歯周病予防を重視する方・長く使いたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r6h3n.3rdw6e54.g00r6h3n.3rdw719f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fd-fit%2Fdf2819%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fd-fit%2Fi%2F10012094%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/d-fit/cabinet/2026_1119_p10/kirikae2/df2819_1450ppm.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/d-fit/cabinet/itemimg/df2819_1450ppm.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"

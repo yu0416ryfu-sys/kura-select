@@ -4,7 +4,7 @@ description: "汗拭きシート・ボディシートを1枚あたりのコス�
 category: "body-sheet"
 publishedAt: "2026-06-10"
 articleType: "comparison"
-updatedAt: "2026-11-19"
+updatedAt: "2026-11-26"
 draft: false
 products:
   - rank: 1
@@ -67,9 +67,9 @@ products:
   - rank: 3
     name: "エージーデオ24 プレミアムデオドラント シャワーシート 無香性 30枚入"
     brand: "資生堂（Ag DEO24）"
-    price: 704
+    price: 633
     capacity: "30枚"
-    pricePerUnit: "約23円/枚"
+    pricePerUnit: "約21円/枚"
     rating: 0
     reviewCount: 0
     features:
@@ -203,9 +203,9 @@ products:
   - rank: 7
     name: "ギャツビー アイスデオドラント ボディペーパー"
     brand: "マンダム（GATSBY）"
-    price: 2048
+    price: 2074
     capacity: "30枚"
-    pricePerUnit: "約68円/枚"
+    pricePerUnit: "約69円/枚"
     rating: 4.81
     reviewCount: 21
     features:

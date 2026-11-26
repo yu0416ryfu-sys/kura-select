@@ -4,7 +4,7 @@ description: "ローション配合の保湿ティッシュを肌あたりとコ
 category: "tissue-paper"
 publishedAt: "2026-06-07"
 articleType: "comparison"
-updatedAt: "2026-11-22"
+updatedAt: "2026-11-26"
 draft: false
 products:
   - rank: 1
@@ -34,7 +34,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Frcmdsp%2Fkr-4902011711400.html"
         matchStatus: "pending"
-        updatedAt: "2026-10-31"
+        updatedAt: "2026-11-26"
         price: 850
         rating: 0
         reviewCount: 0
@@ -114,7 +114,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fazzurro%2F10043328.html"
         matchStatus: "matched"
-        updatedAt: "2026-11-14"
+        updatedAt: "2026-11-26"
         price: 1081
         rating: 0
         reviewCount: 0
@@ -148,7 +148,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fminoku-max%2F1758946401-1-b.html"
         matchStatus: "pending"
-        updatedAt: "2026-11-18"
+        updatedAt: "2026-11-26"
         price: 175
         rating: 0
         reviewCount: 0
@@ -261,9 +261,9 @@ products:
   - rank: 10
     name: "ネピア 鼻セレブ ティッシュ 2個パック"
     brand: "王子ネピア（鼻セレブ）"
-    price: 798
+    price: 837
     capacity: "2個パック"
-    pricePerUnit: "約399円/個"
+    pricePerUnit: "約419円/個"
     rating: 4.72
     reviewCount: 164
     features:

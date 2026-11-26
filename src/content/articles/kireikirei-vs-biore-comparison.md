@@ -3,14 +3,14 @@ title: "キレイキレイとビオレuどっちがいい？【2026年版】殺�
 description: "キレイキレイ（ライオン）とビオレu（花王）のハンドソープはどっちがいい？定番2ブランドの違いを、薬用殺菌成分の位置づけ・泡と液体の選択肢・1mLあたりの単価・肌あたりの4軸で徹底比較。用途別の使い分けも解説します。価格は毎週自動更新。"
 category: "hand-soap"
 publishedAt: "2026-08-31"
-updatedAt: "2026-11-22"
+updatedAt: "2026-11-26"
 articleType: "comparison"
 draft: false
 products:
   - rank: 1
     name: "ビオレu 泡ハンドソープ つめかえ用 770mL"
     brand: "花王（ビオレu）"
-    price: 550
+    price: 415
     capacity: "770mL"
     rating: 5
     reviewCount: 2
@@ -34,13 +34,13 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fyamada-denki%2F2874540019.html"
         matchStatus: "matched"
-        updatedAt: "2026-11-17"
+        updatedAt: "2026-11-26"
         price: 514
         rating: 4.83
         reviewCount: 6
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/yamada-denki_2874540019"
         available: true
-    pricePerUnit: "約0.71円/mL"
+    pricePerUnit: "約0.54円/mL"
   - rank: 2
     name: "ビオレu 薬用 泡ハンドソープ つめかえ用 2L"
     brand: "花王（ビオレu）"
@@ -102,7 +102,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhimawarikikaku%2F4-kireikireix1.html"
         matchStatus: "pending"
-        updatedAt: "2026-11-22"
+        updatedAt: "2026-11-26"
         price: 2440
         rating: 4.83
         reviewCount: 6
@@ -137,7 +137,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsoukai%2F4901301446404.html"
         matchStatus: "matched"
-        updatedAt: "2026-11-22"
+        updatedAt: "2026-11-26"
         price: 1149
         rating: 0
         reviewCount: 0
@@ -171,7 +171,7 @@ products:
         label: "Yahoo!"
         url: "https://lohaco.yahoo.co.jp/store/h-lohaco/item/3112833/"
         matchStatus: "matched"
-        updatedAt: "2026-11-22"
+        updatedAt: "2026-11-26"
         price: 4180
         rating: 4.81
         reviewCount: 73
@@ -203,13 +203,13 @@ products:
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://lohaco.yahoo.co.jp/store/h-lohaco/item/3242257/"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fgoodsania%2F4903301282228.html"
         matchStatus: "pending"
-        updatedAt: "2026-11-22"
-        price: 535
-        rating: 4.65
-        reviewCount: 210
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/rd-lohaco_3242257"
+        updatedAt: "2026-11-26"
+        price: 481
+        rating: 0
+        reviewCount: 1
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/goodsania_4903301282228"
         available: true
   - rank: 7
     name: "キレイキレイ 薬用泡ハンドソープ 詰替用"
@@ -261,7 +261,7 @@ products:
         label: "Yahoo!"
         url: "https://lohaco.yahoo.co.jp/store/h-lohaco/item/2787233/"
         matchStatus: "pending"
-        updatedAt: "2026-11-22"
+        updatedAt: "2026-11-26"
         price: 720
         rating: 4.69
         reviewCount: 95

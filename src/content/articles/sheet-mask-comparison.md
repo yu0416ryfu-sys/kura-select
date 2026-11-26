@@ -58,7 +58,7 @@ products:
         label: "Yahoo!"
         url: "https://lohaco.yahoo.co.jp/store/h-lohaco/item/9824670/"
         matchStatus: "matched"
-        updatedAt: "2026-11-19"
+        updatedAt: "2026-11-26"
         price: 980
         rating: 4.39
         reviewCount: 551
@@ -91,8 +91,8 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fbijinsyokunin%2F5gf-40-mail.html"
-        matchStatus: "pending"
-        updatedAt: "2026-11-18"
+        matchStatus: "matched"
+        updatedAt: "2026-11-26"
         price: 1160
         rating: 0
         reviewCount: 1
@@ -124,13 +124,13 @@ products:
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://lohaco.yahoo.co.jp/store/h-lohaco/item/3432411/"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsundrugec%2F4971710387926.html"
         matchStatus: "pending"
-        updatedAt: "2026-11-18"
-        price: 898
-        rating: 4.44
-        reviewCount: 437
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/rd-lohaco_3432411"
+        updatedAt: "2026-11-26"
+        price: 1028
+        rating: 4.65
+        reviewCount: 31
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/sundrugec_4971710387926"
         available: true
   - rank: 5
     name: "エビス ウルオイート モイスチャーフェイスマスクN 108枚"
@@ -182,11 +182,11 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fluire%2Fpxed12.html"
-        matchStatus: "pending"
-        updatedAt: "2026-11-18"
-        price: 4160
-        rating: 4.61
-        reviewCount: 173
+        matchStatus: "matched"
+        updatedAt: "2026-11-26"
+        price: 2280
+        rating: 4.62
+        reviewCount: 177
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/luire_pxed12"
         available: true
   - rank: 7

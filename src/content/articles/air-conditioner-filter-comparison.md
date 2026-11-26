@@ -4,7 +4,7 @@ description: "エアコンフィルターのおすすめ10選を交換タイプ�
 category: "air-conditioner-filter"
 publishedAt: "2026-05-17"
 articleType: "comparison"
-updatedAt: "2026-11-22"
+updatedAt: "2026-11-26"
 draft: false
 products:
   - rank: 1
@@ -78,9 +78,9 @@ products:
   - rank: 3
     name: "エアコンフィルター 5枚入"
     brand: "東和産業"
-    price: 2390
+    price: 2151
     capacity: "5枚"
-    pricePerUnit: "約478円/枚"
+    pricePerUnit: "約430円/枚"
     rating: 4.23
     reviewCount: 30
     features:
@@ -185,8 +185,8 @@ products:
     price: 1590
     capacity: "2枚"
     pricePerUnit: "約795円/枚"
-    rating: 4.39
-    reviewCount: 517
+    rating: 4.4
+    reviewCount: 518
     features:
       - "バイオ酵素配合でカビの発生を抑制する設計"
       - "粘着シール付きでフレームなしで装着可能"

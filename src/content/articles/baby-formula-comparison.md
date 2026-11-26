@@ -4,7 +4,7 @@ description: "乳児用粉ミルクのおすすめ8選を、大缶と詰め替�
 category: "baby-formula"
 publishedAt: "2026-11-02"
 articleType: "comparison"
-updatedAt: "2026-11-24"
+updatedAt: "2026-11-26"
 draft: false
 products:
   - rank: 1
@@ -149,8 +149,8 @@ products:
     price: 6350
     capacity: "800g×2缶（1600g）"
     pricePerUnit: "約4.0円/g"
-    rating: 4.72
-    reviewCount: 18
+    rating: 4.74
+    reviewCount: 19
     features:
       - "0か月から1歳頃まで。標準調乳濃度12.7%"
       - "体内でDHAに変わるα-リノレン酸を含むエゴマ油を配合（DHAそのものは原材料に無い）"
@@ -180,7 +180,7 @@ products:
   - rank: 6
     name: "ビーンスターク すこやかM1 800g×2缶"
     brand: "雪印ビーンスターク"
-    price: 6500
+    price: 6580
     capacity: "800g×2缶（1600g）"
     pricePerUnit: "約4.1円/g"
     rating: 4.3
@@ -197,8 +197,8 @@ products:
       - "近くの店で売っていないという声がある"
       - "楽天の出品はレビューが少なく、比べる材料が限られる"
     recommendedFor: "産院で使っていた人や、買い置きの期限を長くとりたい人"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pzd4n.3rdw63a4.g00pzd4n.3rdw70e7/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnetbaby%2F4987493000785%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnetbaby%2Fi%2F10054391%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/netbaby/cabinet/785/4987493000785.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pukwn.3rdw61de.g00pukwn.3rdw7759/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fjism%2F4987493000785-73-30000285-n%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fjism%2Fi%2F14951891%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/jism/cabinet/0122/4987493000785.jpg?_ex=128x128"
     genreId: "401171"
     offers:
       - provider: "yahoo"

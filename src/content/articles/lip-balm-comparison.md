@@ -4,7 +4,7 @@ description: "リップクリームのおすすめ10選を、薬用（医薬部�
 category: "lip-balm"
 publishedAt: "2026-11-12"
 articleType: "comparison"
-updatedAt: "2026-11-24"
+updatedAt: "2026-11-26"
 draft: false
 products:
   - rank: 1
@@ -285,8 +285,8 @@ products:
     brand: "ニベア"
     price: 1534
     capacity: "2.2g×3本（6.6g）"
-    rating: 4.33
-    reviewCount: 3
+    rating: 4.5
+    reviewCount: 4
     features:
       - "医薬部外品。有効成分は酢酸DL-α-トコフェロール・グリチルレチン酸ステアリル"
       - "UVカット成分を配合し、SPF26 PA++ と表示"

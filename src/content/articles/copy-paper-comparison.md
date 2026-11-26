@@ -4,7 +4,7 @@ description: "A4コピー用紙のおすすめ9選を、高白色・標準白色
 category: "copy-paper"
 publishedAt: "2026-10-31"
 articleType: "comparison"
-updatedAt: "2026-11-24"
+updatedAt: "2026-11-26"
 draft: false
 products:
   - rank: 1
@@ -35,20 +35,54 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fofficetrust%2F014000.html"
         matchStatus: "matched"
-        updatedAt: "2026-11-22"
+        updatedAt: "2026-11-25"
         price: 3979
         rating: 4.68
-        reviewCount: 1911
+        reviewCount: 1914
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/officetrust_014000"
         available: true
   - rank: 2
+    name: "Blanco コピー用紙 A4 5000枚 500枚×10冊"
+    brand: "Blanco"
+    price: 4310
+    capacity: "500枚×10冊（5000枚）"
+    pricePerUnit: "約0.86円/枚"
+    rating: 4.59
+    reviewCount: 840
+    features:
+      - "白色度約92%・紙厚約90μ・坪量約67g/m²（商品ページ表記）"
+      - "文具堂が販売するコピー用紙"
+      - "レーザーやコピーなど一般的な事務用途を想定した高白色の用紙"
+    pros:
+      - "標準的な仕様で、事務用として迷わず選びやすい"
+      - "レビューの数が多く、使った人の声を読める"
+      - "置き配の案内があり、受け取り方を確かめられる"
+    cons:
+      - "単価は時期によって高白色の他銘柄と入れ替わることがある"
+      - "箱の重さがあるので、室内まで運ぶ人手が要る"
+    recommendedFor: "標準的な高白色の紙を事務用に常備したい人"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qea1n.3rdw6a1a.g00qea1n.3rdw7caf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbungudo%2F9809838%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbungudo%2Fi%2F10006889%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/bungudo/cabinet/nikuduke14/7184320ranksa.jpg?_ex=128x128"
+    genreId: "303145"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fpetkan%2F9122182.html"
+        matchStatus: "pending"
+        updatedAt: "2026-11-25"
+        price: 5020
+        rating: 4.59
+        reviewCount: 71
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/petkan_9122182"
+        available: true
+  - rank: 3
     name: "APP リサイクルコピー用紙 A4 2500枚 500枚×5冊 PPR101"
     brand: "APP"
     price: 2220
     capacity: "500枚×5冊（2500枚）"
     pricePerUnit: "約0.89円/枚"
-    rating: 4.52
-    reviewCount: 151
+    rating: 4.51
+    reviewCount: 152
     features:
       - "古紙パルプ配合率70%の再生紙（商品ページ表記）"
       - "グリーン購入法適合の表示がある"
@@ -67,15 +101,15 @@ products:
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Firisplaza%2F7263846.html"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fmagokorooroshi%2F24000.html"
         matchStatus: "pending"
-        updatedAt: "2026-11-04"
-        price: 2720
-        rating: 4.54
-        reviewCount: 13
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/irisplaza_7263846"
+        updatedAt: "2026-11-25"
+        price: 2920
+        rating: 5
+        reviewCount: 10
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/magokorooroshi_24000"
         available: true
-  - rank: 3
+  - rank: 4
     name: "カウコレ プレミアム スタンダード高白色 A4 500枚×10冊"
     brand: "カウネット"
     price: 4510
@@ -102,21 +136,21 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkaumall%2F50122592.html"
-        matchStatus: "pending"
-        updatedAt: "2026-11-04"
+        matchStatus: "matched"
+        updatedAt: "2026-11-25"
         price: 4510
         rating: 4.4
         reviewCount: 55
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/kaumall_50122592"
         available: true
-  - rank: 4
+  - rank: 5
     name: "Forestway 高白色コピー用紙EX A4 5000枚 500枚×10冊"
     brand: "Forestway"
     price: 4598
     capacity: "500枚×10冊（5000枚）"
     pricePerUnit: "約0.92円/枚"
     rating: 4.59
-    reviewCount: 1578
+    reviewCount: 1580
     features:
       - "ISO白色度約93%・坪量約68g/m²・紙厚約94μm（商品ページ表記）"
       - "コピー用紙の中ではやや厚めの紙厚"
@@ -143,7 +177,7 @@ products:
         reviewCount: 3622
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/cocodecow_550592"
         available: true
-  - rank: 5
+  - rank: 6
     name: "Forestway 国産コピー用紙 JPN A4 5000枚 500枚×10冊"
     brand: "Forestway"
     price: 4730
@@ -177,14 +211,14 @@ products:
         reviewCount: 110
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/cocodecow_y40138"
         available: true
-  - rank: 6
+  - rank: 7
     name: "ペーパーワン コピー用紙 A4 2500枚 500枚×5冊 高白色"
     brand: "PaperOne"
     price: 2399
     capacity: "500枚×5冊（2500枚）"
     pricePerUnit: "約0.96円/枚"
-    rating: 4.63
-    reviewCount: 265
+    rating: 4.64
+    reviewCount: 266
     features:
       - "10冊入りと同じ銘柄の5冊入り"
       - "白色度92%で、PEFC認証材を使った用紙"
@@ -210,40 +244,6 @@ products:
         rating: 4.57
         reviewCount: 267
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/officetrust_014001"
-        available: true
-  - rank: 7
-    name: "Blanco コピー用紙 A4 5000枚 500枚×10冊"
-    brand: "Blanco"
-    price: 4799
-    capacity: "500枚×10冊（5000枚）"
-    pricePerUnit: "約0.96円/枚"
-    rating: 4.59
-    reviewCount: 840
-    features:
-      - "白色度約92%・紙厚約90μ・坪量約67g/m²（商品ページ表記）"
-      - "文具堂が販売するコピー用紙"
-      - "レーザーやコピーなど一般的な事務用途を想定した高白色の用紙"
-    pros:
-      - "標準的な仕様で、事務用として迷わず選びやすい"
-      - "レビューの数が多く、使った人の声を読める"
-      - "置き配の案内があり、受け取り方を確かめられる"
-    cons:
-      - "単価は時期によって高白色の他銘柄と入れ替わることがある"
-      - "箱の重さがあるので、室内まで運ぶ人手が要る"
-    recommendedFor: "標準的な高白色の紙を事務用に常備したい人"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qea1n.3rdw6a1a.g00qea1n.3rdw7caf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbungudo%2F9809838%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbungudo%2Fi%2F10006889%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/bungudo/cabinet/nikuduke14/7184320ranksa.jpg?_ex=128x128"
-    genreId: "303145"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Firisplaza%2F9831988.html"
-        matchStatus: "pending"
-        updatedAt: "2026-11-24"
-        price: 5980
-        rating: 4.87
-        reviewCount: 15
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/irisplaza_9831988"
         available: true
   - rank: 8
     name: "コピー用紙 ホワイトエコペーパー A4サイズ 1冊 500枚 高白色"

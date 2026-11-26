@@ -4,7 +4,7 @@ description: "絆創膏（ばんそうこう）のおすすめ8選を1枚あた�
 category: "bandage"
 publishedAt: "2026-06-30"
 articleType: "comparison"
-updatedAt: "2026-11-18"
+updatedAt: "2026-11-26"
 draft: false
 products:
   - rank: 1
@@ -204,7 +204,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftsuruha%2F10092408.html"
         matchStatus: "matched"
-        updatedAt: "2026-11-23"
+        updatedAt: "2026-11-25"
         price: 1022
         rating: 4.93
         reviewCount: 98
@@ -214,7 +214,7 @@ products:
   - rank: 7
     name: "ケアリーヴ 防水タイプ Mサイズ 40枚"
     brand: "ニチバン（ケアリーヴ）"
-    price: 996
+    price: 1013
     capacity: "40枚"
     pricePerUnit: "約25円/枚"
     rating: 4.79
@@ -239,7 +239,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftsuruha%2F10053802.html"
         matchStatus: "matched"
-        updatedAt: "2026-11-23"
+        updatedAt: "2026-11-25"
         price: 498
         rating: 4
         reviewCount: 6
@@ -272,7 +272,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fbeisia%2F4987603464520.html"
         matchStatus: "matched"
-        updatedAt: "2026-11-23"
+        updatedAt: "2026-11-25"
         price: 580
         rating: 0
         reviewCount: 0

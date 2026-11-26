@@ -4,7 +4,7 @@ description: "7か月頃から食べられる市販のベビーフード（レ�
 category: "baby-food"
 publishedAt: "2026-11-22"
 articleType: "comparison"
-updatedAt: "2026-11-22"
+updatedAt: "2026-11-26"
 draft: false
 products:
   - rank: 1
@@ -32,13 +32,13 @@ products:
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fnetbaby%2F4902508139410.html"
+        url: "https://lohaco.yahoo.co.jp/store/h-lohaco/item/x915604/"
         matchStatus: "pending"
-        updatedAt: "2026-11-23"
-        price: 669
+        updatedAt: "2026-11-25"
+        price: 6080
         rating: 0
         reviewCount: 0
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/netbaby_4902508139410"
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/rd-lohaco_x915604"
         available: true
   - rank: 2
     name: "和光堂 具たっぷりグーグーキッチン かぼちゃグラタン 80g×12個"
@@ -84,6 +84,17 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rbnvn.3rdw6e69.g00rbnvn.3rdw7dd2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftsuruha%2F10165488%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftsuruha%2Fi%2F10100400%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/tsuruha/cabinet/shouhin76/10165488.jpg?_ex=128x128"
     genreId: "213980"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fladydrugheartshop%2F60000000005983.html"
+        matchStatus: "pending"
+        updatedAt: "2026-11-25"
+        price: 1635
+        rating: 0
+        reviewCount: 0
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/ladydrugheartshop_60000000005983"
+        available: true
   - rank: 4
     name: "和光堂 栄養マルシェ 鶏とおさかなのベビーランチ 80g×2個入×2箱"
     brand: "和光堂"
@@ -165,9 +176,9 @@ products:
   - rank: 7
     name: "カインデスト プレミアム7ヶ月 離乳食セット 3種×2個"
     brand: "カインデスト"
-    price: 4911
+    price: 4174
     capacity: "400g（3種×2個）"
-    pricePerUnit: "約12円/g"
+    pricePerUnit: "約10円/g"
     rating: 4.58
     reviewCount: 24
     features:
@@ -182,7 +193,7 @@ products:
       - "温め方は商品ページの文字では確かめられなかった（パッケージで確認）"
     recommendedFor: "主食・おかず・副菜を少しずつそろえた1食分を試したい人"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00udj0n.3rdw673b.g00udj0n.3rdw76d5/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fthekindest%2Fmall-bfmmp06-b%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fthekindest%2Fi%2F10000016%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/thekindest/cabinet/13393074/imgrc0164925766.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/thekindest/cabinet/09782643/09782644/mall-bfmmp06-b.jpg?_ex=128x128"
     genreId: "213980"
 tags:
   - "ベビーフード 7ヶ月 おすすめ"

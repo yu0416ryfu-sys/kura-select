@@ -4,7 +4,7 @@ description: "食器用スポンジ・キッチンスポンジを1個あたり�
 category: "kitchen-sponge"
 publishedAt: "2026-05-01"
 articleType: "comparison"
-updatedAt: "2026-11-24"
+updatedAt: "2026-11-26"
 products:
   - rank: 1
     name: "ダスキン 台所用スポンジ 抗菌タイプ 6個セット"
@@ -42,13 +42,13 @@ products:
         matchNotes: "リンク切れ(404)"
     genreId: "401520"
   - rank: 2
-    name: "ダスキン台所用スポンジ ハードタイプ モノトーン 6個セット"
+    name: "ダスキン 台所用スポンジ ハードタイプ モノトーン 6個セット"
     brand: "ダスキン"
     price: 1100
     capacity: "6個"
     pricePerUnit: "約183円/個"
-    rating: 4.76
-    reviewCount: 1464
+    rating: 4.77
+    reviewCount: 870
     features:
       - "ポリウレタンフォーム＋ナイロン不織布＋ポリエステルの3素材構造"
       - "ブラック・グレー・ホワイトのモノトーン3色展開"
@@ -61,8 +61,8 @@ products:
       - "ハードタイプのためデリケートなコーティングには注意が必要"
       - "単価が高めでコスパ重視の方には不向き"
     recommendedFor: "キッチンの見た目にこだわる方・硬い汚れを落としたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00sc6bn.3rdw6db2.g00sc6bn.3rdw709a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnactasukaru%2F10035%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnactasukaru%2Fi%2F10000055%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/nactasukaru/cabinet/item_img/10035_new_b.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00scwvn.3rdw672a.g00scwvn.3rdw7cad/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fdusdus-shop%2Fdssmn6-1%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fdusdus-shop%2Fi%2F10000188%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/dusdus-shop/cabinet/05082460/noprice/area/dssmn6_area.jpg?_ex=128x128"
     genreId: "401520"
   - rank: 3
     name: "【お試し・初回購入限定】太陽油脂　パックスナチュロン　キッチンスポンジ"
@@ -71,7 +71,7 @@ products:
     capacity: "1個"
     pricePerUnit: "約220円/個"
     rating: 4.76
-    reviewCount: 501
+    reviewCount: 502
     features:
       - "天然素材のセルロース＋綿で環境にやさしい"
       - "速乾性が高く雑菌が繁殖しにくい"
@@ -193,10 +193,10 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsunsunsponge%2Ftss08b.html"
         matchStatus: "matched"
-        updatedAt: "2026-11-24"
+        updatedAt: "2026-11-26"
         price: 3073
         rating: 4.86
-        reviewCount: 287
+        reviewCount: 288
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/sunsunsponge_tss08b"
         available: true
     genreId: "401520"

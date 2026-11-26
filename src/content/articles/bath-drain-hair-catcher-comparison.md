@@ -4,7 +4,7 @@ description: "浴室排水口ヘアキャッチャーを1個あたりのコス�
 category: "bath-drain-hair-catcher"
 publishedAt: "2026-06-04"
 articleType: "comparison"
-updatedAt: "2026-11-24"
+updatedAt: "2026-11-26"
 draft: false
 products:
   - rank: 1
@@ -58,8 +58,8 @@ products:
     brand: "Magico"
     price: 1980
     capacity: "1個"
-    rating: 4.63
-    reviewCount: 696
+    rating: 4.64
+    reviewCount: 697
     features:
       - "浴室排水口向けのネットホルダー"
       - "排水口ネットを隠しやすい構造"
@@ -100,57 +100,11 @@ products:
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/livingut/cabinet/maker_sinka1/465592.jpg?_ex=128x128"
     genreId: "101838"
   - rank: 5
-    name: "HUBATH お風呂 マグネット ヘアーキャッチャー TT104"
-    brand: "シンカテック"
-    price: 2420
-    capacity: "1個"
-    pricePerUnit: "約2420円/個"
-    rating: 4.7
-    reviewCount: 2729
-    features:
-      - "TOTO対応サイズのヘアーキャッチャー"
-      - "浴室排水口向けのステンレス製"
-      - "マグネット式のごみ受け"
-    pros:
-      - "対応メーカーを確認して選びやすい"
-      - "金属製で見た目を整えやすい"
-      - "ネット不要タイプの候補にしやすい"
-    cons:
-      - "対応サイズ外では使えない場合がある"
-      - "購入前に排水口仕様を確認したい"
-    recommendedFor: "TOTO系浴室の目皿交換候補を探す方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00s7h3n.3rdw6d0e.g00s7h3n.3rdw7585/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsinkatec%2Fhu_thair_catcher%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsinkatec%2Fi%2F10000431%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/sinkatec/cabinet/sale/tt_p5_261119.jpg?_ex=128x128"
-    genreId: "101838"
-  - rank: 6
-    name: "HUBATH お風呂 マグネット ヘアーキャッチャー STD140"
-    brand: "シンカテック"
-    price: 2530
-    capacity: "1個"
-    pricePerUnit: "約2530円/個"
-    rating: 4.63
-    reviewCount: 5488
-    features:
-      - "浴室排水口向けのステンレス製"
-      - "マグネット式のヘアーキャッチャー"
-      - "スタンダードサイズ向け設計"
-    pros:
-      - "金属製のごみ受けを選びたい方に向く"
-      - "置くだけで使うタイプを比較しやすい"
-      - "浴室の目皿交換候補にしやすい"
-    cons:
-      - "購入前に排水口サイズを測る必要がある"
-      - "磁石が使える条件を確認したい"
-    recommendedFor: "ステンレス製の標準サイズを探している方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00s7h3n.3rdw6d0e.g00s7h3n.3rdw7585/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsinkatec%2Fhu_mhair_catcher%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsinkatec%2Fi%2F10000428%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/sinkatec/cabinet/sale/cd_p5_261119.jpg?_ex=128x128"
-    genreId: "101838"
-  - rank: 7
     name: "dailysmile ステンレス 排水口カバー ヘアーキャッチャー"
     brand: "dailysmile"
-    price: 2580
+    price: 2322
     capacity: "1個"
-    pricePerUnit: "約2580円/個"
+    pricePerUnit: "約2322円/個"
     rating: 4.19
     reviewCount: 217
     features:
@@ -168,6 +122,52 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00un7an.3rdw60d8.g00un7an.3rdw7e7a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fdailysmile%2Fl5hm069%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fdailysmile%2Fi%2F10000213%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/dailysmile/cabinet/10940622/12633037/l5hm069_261007test.jpg?_ex=128x128"
     genreId: "565605"
+  - rank: 6
+    name: "HUBATH お風呂 マグネット ヘアーキャッチャー TT104"
+    brand: "シンカテック"
+    price: 2420
+    capacity: "1個"
+    pricePerUnit: "約2420円/個"
+    rating: 4.7
+    reviewCount: 2735
+    features:
+      - "TOTO対応サイズのヘアーキャッチャー"
+      - "浴室排水口向けのステンレス製"
+      - "マグネット式のごみ受け"
+    pros:
+      - "対応メーカーを確認して選びやすい"
+      - "金属製で見た目を整えやすい"
+      - "ネット不要タイプの候補にしやすい"
+    cons:
+      - "対応サイズ外では使えない場合がある"
+      - "購入前に排水口仕様を確認したい"
+    recommendedFor: "TOTO系浴室の目皿交換候補を探す方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00s7h3n.3rdw6d0e.g00s7h3n.3rdw7585/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsinkatec%2Fhu_thair_catcher%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsinkatec%2Fi%2F10000431%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/sinkatec/cabinet/bath/hubath_btmh/imgrc0151319523.jpg?_ex=128x128"
+    genreId: "101838"
+  - rank: 7
+    name: "HUBATH お風呂 マグネット ヘアーキャッチャー STD140"
+    brand: "シンカテック"
+    price: 2530
+    capacity: "1個"
+    pricePerUnit: "約2530円/個"
+    rating: 4.63
+    reviewCount: 5502
+    features:
+      - "浴室排水口向けのステンレス製"
+      - "マグネット式のヘアーキャッチャー"
+      - "スタンダードサイズ向け設計"
+    pros:
+      - "金属製のごみ受けを選びたい方に向く"
+      - "置くだけで使うタイプを比較しやすい"
+      - "浴室の目皿交換候補にしやすい"
+    cons:
+      - "購入前に排水口サイズを測る必要がある"
+      - "磁石が使える条件を確認したい"
+    recommendedFor: "ステンレス製の標準サイズを探している方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00s7h3n.3rdw6d0e.g00s7h3n.3rdw7585/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsinkatec%2Fhu_mhair_catcher%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsinkatec%2Fi%2F10000428%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/sinkatec/cabinet/bath/hubath_bmh/imgrc0151319519.jpg?_ex=128x128"
+    genreId: "101838"
   - rank: 8
     name: "KEEPFINE 抗菌ヘアキャッチャー 102mm用"
     brand: "KEEPFINE"

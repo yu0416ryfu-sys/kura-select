@@ -4,7 +4,7 @@ description: "猫の液状おやつ（スティック状のペースト）のお
 category: "cat-treat"
 publishedAt: "2026-11-22"
 articleType: "comparison"
-updatedAt: "2026-11-22"
+updatedAt: "2026-11-26"
 draft: false
 products:
   - rank: 1
@@ -13,8 +13,8 @@ products:
     price: 5280
     capacity: "14g×120本（1680g）"
     pricePerUnit: "約3.1円/g"
-    rating: 4.35
-    reviewCount: 115
+    rating: 4.34
+    reviewCount: 116
     features:
       - "メーカー公式の目的表示は「おやつ（総合栄養食タイプ）」"
       - "ビタミン・ミネラル・タウリンなどを加えている"
@@ -29,6 +29,17 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F4901133719240%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10825813%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/240/4901133719240.jpg?_ex=128x128"
     genreId: "112125"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsoukai%2F4901133719240.html"
+        matchStatus: "pending"
+        updatedAt: "2026-11-25"
+        price: 5425
+        rating: 4.79
+        reviewCount: 14
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/soukai_4901133719240"
+        available: true
   - rank: 2
     name: "チャオ ちゅ～る まぐろバラエティ 14g×40本"
     brand: "いなばペットフード"
@@ -36,7 +47,7 @@ products:
     capacity: "14g×40本（560g）"
     pricePerUnit: "約3.7円/g"
     rating: 4.81
-    reviewCount: 142
+    reviewCount: 143
     features:
       - "まぐろ単品と、まぐろにほたて貝柱・タラバガニ・まぐろ節を合わせた味の4種が10本ずつ"
       - "原材料に増粘剤・調味料・緑茶エキス・紅麹色素などを使用"
@@ -52,6 +63,17 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2Fe428935h%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F10519123%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/444/4901133720444.jpg?_ex=128x128"
     genreId: "112125"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fbestone1%2Fyk6015-a2511.html"
+        matchStatus: "pending"
+        updatedAt: "2026-11-25"
+        price: 1679
+        rating: 0
+        reviewCount: 2
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/bestone1_yk6015-a2511"
+        available: true
   - rank: 3
     name: "ねこぴゅ～れ 無添加ピュア PureValue5 バラエティボックス 鮪鰹 13g×60本"
     brand: "RIVERD REPUBLIC"
@@ -97,6 +119,17 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F4902201218634%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F11362227%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/634/4902201218634.jpg?_ex=128x128"
     genreId: "112125"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fpetgo-2nd%2F4902201218627.html"
+        matchStatus: "pending"
+        updatedAt: "2026-11-25"
+        price: 3865
+        rating: 4.8
+        reviewCount: 10
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/petgo-2nd_4902201218627"
+        available: true
   - rank: 5
     name: "キットキャット パーピューレ ツナ おかか 15g×4本"
     brand: "キットキャット"
@@ -120,6 +153,17 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rwoyn.3rdw6064.g00rwoyn.3rdw7530/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmpcpets%2Fktc0400050%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmpcpets%2Fi%2F10005648%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/mpcpets/cabinet/i-p/ktc0400050_1.jpg?_ex=128x128"
     genreId: "112125"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Firisplaza%2F7290592.html"
+        matchStatus: "pending"
+        updatedAt: "2026-11-25"
+        price: 360
+        rating: 0
+        reviewCount: 0
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/irisplaza_7290592"
+        available: true
   - rank: 6
     name: "PEPPY LIFE にゃろみ 10g×20本"
     brand: "ペピイ"
@@ -141,7 +185,7 @@ products:
       - "20本が同じ味（ささみ・かつお・まぐろなどから選ぶ）"
     recommendedFor: "1本のカロリーが低いものを、少しずつあげたい人"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rxfqn.3rdw6fcb.g00rxfqn.3rdw79d6/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fpeppyshop%2Fra01654%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fpeppyshop%2Fi%2F10002925%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/peppyshop/cabinet/thum/261103/ra01654.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/peppyshop/cabinet/cat/05494741/ra01654.jpg?_ex=128x128"
     genreId: "565724"
 tags:
   - "猫 おやつ おすすめ"

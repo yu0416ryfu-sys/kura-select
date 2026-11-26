@@ -4,7 +4,7 @@ description: "赤ちゃん用おしりふきを1枚当たり価格で比較。�
 category: "baby-wipes"
 publishedAt: "2026-05-17"
 articleType: "comparison"
-updatedAt: "2026-11-24"
+updatedAt: "2026-11-26"
 draft: false
 products:
   - rank: 1
@@ -14,7 +14,7 @@ products:
     capacity: "80枚×40個（3200枚）"
     pricePerUnit: "約1.3円/枚"
     rating: 4.78
-    reviewCount: 8550
+    reviewCount: 8557
     features:
       - "おしりふきとして使えるウェットシート"
       - "詰め替え用やまとめ買いで選びやすい構成"
@@ -44,9 +44,9 @@ products:
   - rank: 2
     name: "ムーニー おしりふき やわらか素材 つめかえ用 76枚×32個"
     brand: "ムーニー"
-    price: 4232
+    price: 3740
     capacity: "76枚×32個（2432枚）"
-    pricePerUnit: "約1.7円/枚"
+    pricePerUnit: "約1.5円/枚"
     rating: 3.6
     reviewCount: 5
     features:
@@ -63,8 +63,8 @@ products:
       - "パッケージが大きく置き場所の確保が必要"
       - "配送時に重くなりやすい"
     recommendedFor: "毎日大量に使う方、長く使い続けたい家庭"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r136n.3rdw697f.g00r136n.3rdw7383/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F566556%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F11195080%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/556/566556.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00q215n.3rdw6559.g00q215n.3rdw769c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Funicharm%2F101635%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Funicharm%2Fi%2F10003828%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/unicharm/cabinet/baby/care/100695.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
@@ -143,7 +143,7 @@ products:
     capacity: "80枚×15個（1200枚）"
     pricePerUnit: "約2.0円/枚"
     rating: 4.7
-    reviewCount: 5017
+    reviewCount: 5022
     features:
       - "おしりふきとして使えるウェットシート"
       - "詰め替え用やまとめ買いで選びやすい構成"
@@ -177,7 +177,7 @@ products:
     capacity: "72枚×20個（1440枚）"
     pricePerUnit: "約2.4円/枚"
     rating: 4.62
-    reviewCount: 411
+    reviewCount: 412
     features:
       - "水流でほぐれやすくトイレに流せるシート"
       - "ふんわり厚手のやわらかい素材"

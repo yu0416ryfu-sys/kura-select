@@ -4,7 +4,7 @@ description: "洗顔料を1gあたりのコストで徹底比較。ビオレ・�
 category: "face-wash"
 publishedAt: "2026-05-01"
 articleType: "comparison"
-updatedAt: "2026-11-24"
+updatedAt: "2026-11-26"
 products:
   - rank: 1
     name: "ダヴ ビューティモイスチャー 洗顔料 130g"
@@ -66,13 +66,48 @@ products:
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rosette-shop/cabinet/thumbna/pasta_ks240_1ps/imgrc0108556464.jpg?_ex=128x128"
     genreId: "405130"
   - rank: 3
+    name: "DoMeCare マイクロクレイウォッシュ 110g"
+    brand: "DoMeCare"
+    price: 990
+    capacity: "110g"
+    pricePerUnit: "約9.0円/g"
+    rating: 4.6
+    reviewCount: 2063
+    features:
+      - "ベントナイトやカオリンなどのクレイを配合した洗顔料"
+      - "泡立てネットで泡立てて使う"
+      - "口の広いパウチに入った110g"
+    pros:
+      - "ネットを使うと少量でもきめ細かい泡になるという声が多い"
+      - "無香料・無着色の表示"
+      - "洗い上がりはさっぱりという声が多い"
+    cons:
+      - "ネットなしだと泡になりにくい"
+      - "中身が固めで、冬は出しにくいことがある"
+      - "不使用の欄と全成分の記載が食い違って見えるので、エタノールを避けたい方は全成分を確認したい"
+    recommendedFor: "ネットで泡立てて、クレイ入りのさっぱりした洗い上がりを試したい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tfrwn.3rdw669e.g00tfrwn.3rdw74a4/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fdomecare%2Fdmc_micro-cray-wash%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fdomecare%2Fi%2F10000008%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/domecare/cabinet/sale/ss0806/mcw_newsam_65koushi.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fyua-shop%2Fl01-045.html"
+        matchStatus: "matched"
+        updatedAt: "2026-11-24"
+        price: 2500
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/yua-shop_l01-045"
+        available: true
+        rating: 0
+        reviewCount: 0
+    genreId: "405130"
+  - rank: 4
     name: "カーボニック クリーニング パック 150g×2点セット"
     brand: "PLuS"
     price: 3140
     capacity: "150g×2点（300g）"
     pricePerUnit: "約10円/g"
     rating: 4.45
-    reviewCount: 3833
+    reviewCount: 3837
     features:
       - "スプレー缶から炭酸泡が出る洗顔・パック兼用品"
       - "泡を顔全体に広げて約1分置き、洗い流す"
@@ -88,41 +123,6 @@ products:
     recommendedFor: "時間のある日に、洗顔とパックを一度に済ませたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00po0zn.3rdw627e.g00po0zn.3rdw7621/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fluire%2Fpscp11000%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fluire%2Fi%2F10005954%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/luire/cabinet/plus04/clpack-2_off50_2.jpg?_ex=128x128"
-    genreId: "405130"
-  - rank: 4
-    name: "DoMeCare マイクロクレイウォッシュ 110g"
-    brand: "DoMeCare"
-    price: 1980
-    capacity: "110g"
-    pricePerUnit: "約18円/g"
-    rating: 4.6
-    reviewCount: 2062
-    features:
-      - "ベントナイトやカオリンなどのクレイを配合した洗顔料"
-      - "泡立てネットで泡立てて使う"
-      - "口の広いパウチに入った110g"
-    pros:
-      - "ネットを使うと少量でもきめ細かい泡になるという声が多い"
-      - "無香料・無着色の表示"
-      - "洗い上がりはさっぱりという声が多い"
-    cons:
-      - "ネットなしだと泡になりにくい"
-      - "中身が固めで、冬は出しにくいことがある"
-      - "不使用の欄と全成分の記載が食い違って見えるので、エタノールを避けたい方は全成分を確認したい"
-    recommendedFor: "ネットで泡立てて、クレイ入りのさっぱりした洗い上がりを試したい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tfrwn.3rdw669e.g00tfrwn.3rdw74a4/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fdomecare%2Fdmc_micro-cray-wash%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fdomecare%2Fi%2F10000008%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/domecare/cabinet/campain1/50per/mcwsamnew_50per.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fyua-shop%2Fl01-045.html"
-        matchStatus: "matched"
-        updatedAt: "2026-11-24"
-        price: 2500
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/yua-shop_l01-045"
-        available: true
-        rating: 0
-        reviewCount: 0
     genreId: "405130"
   - rank: 5
     name: "レステモ フェイシャル ソープ 150g"
@@ -259,7 +259,7 @@ products:
     price: 2200
     capacity: "130g"
     rating: 4.62
-    reviewCount: 1273
+    reviewCount: 1275
     features:
       - "ベントナイト入りの泥洗顔で、洗浄の主体は石けん系"
       - "泡立てネットが付いている"
@@ -274,7 +274,7 @@ products:
       - "「無添加」の内訳が商品ページに書かれていない"
     recommendedFor: "ネット付きで泥洗顔を始めたい方・すっきりした洗い上がりが好きな方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00t45pn.3rdw68a0.g00t45pn.3rdw796e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftsurunishi%2F905b01n0bsytw%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftsurunishi%2Fi%2F10000261%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/tsurunishi/cabinet/salesamune/coupon/905b01n0bsytw-20.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/tsurunishi/cabinet/salesamune/ts/905b01n0bsytw-50.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"

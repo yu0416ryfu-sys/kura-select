@@ -4,7 +4,7 @@ description: "普段使いのティッシュペーパーを1組あたりの価�
 category: "tissue-paper"
 publishedAt: "2026-06-07"
 articleType: "comparison"
-updatedAt: "2026-11-24"
+updatedAt: "2026-11-26"
 draft: false
 products:
   - rank: 1
@@ -37,7 +37,7 @@ products:
     capacity: "400枚（200組）×60箱"
     pricePerUnit: "約0.42円/組"
     rating: 4.75
-    reviewCount: 561
+    reviewCount: 562
     features:
       - "1箱400枚（200組）の2枚重ね"
       - "5箱パック×12の60箱入り"
@@ -71,7 +71,7 @@ products:
     capacity: "200組×60箱（12,000組）"
     pricePerUnit: "約0.46円/組"
     rating: 4.8
-    reviewCount: 1622
+    reviewCount: 1624
     features:
       - "1箱400枚（200組）・5箱パック×12の60箱入り"
       - "シートサイズ198×206mm（2023年10月に198×216mmから変更）"

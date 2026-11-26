@@ -4,7 +4,7 @@ description: "消臭剤のおすすめ8選をコスパで徹底比較。リセ�
 category: "room-deodorizer"
 publishedAt: "2026-05-05"
 articleType: "comparison"
-updatedAt: "2026-11-22"
+updatedAt: "2026-11-26"
 products:
   - rank: 1
     name: "ハルの消臭剤 消臭ビーズ 詰替用"
@@ -30,6 +30,40 @@ products:
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/halindustry/cabinet/12622677/10000008_2610.jpg?_ex=128x128"
     genreId: "401619"
   - rank: 2
+    name: "ハルの消臭剤 消臭ビーズ 空容器セット"
+    brand: "ハル・インダストリ"
+    price: 5583
+    capacity: "4kg"
+    pricePerUnit: "約1396円/kg"
+    rating: 4.68
+    reviewCount: 1672
+    features:
+      - "部屋や玄関などのニオイ対策に使える"
+      - "置き型・スプレー・詰替などから選べる"
+      - "ペットや靴まわりにも使いやすい"
+    pros:
+      - "生活臭対策に取り入れやすい"
+      - "容量違いを選べる"
+      - "設置場所に合わせやすい"
+    cons:
+      - "香りや無香料の好みは分かれる"
+      - "使用場所の注意書き確認が必要"
+    recommendedFor: "室内や玄関の消臭アイテムを比較したい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00t4h2n.3rdw6ed6.g00t4h2n.3rdw7c7c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhalindustry%2F10000009%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhalindustry%2Fi%2F10000009%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/halindustry/cabinet/12622677/10000009_2610.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhal-industry%2Fbs02.html"
+        matchStatus: "matched"
+        updatedAt: "2026-11-26"
+        price: 6204
+        rating: 4.66
+        reviewCount: 463
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/hal-industry_bs02"
+        available: true
+    genreId: "401619"
+  - rank: 3
     name: "無香空間 本体 315g"
     brand: "小林製薬"
     price: 448
@@ -64,46 +98,12 @@ products:
         rating: 0
         reviewCount: 0
     genreId: "401619"
-  - rank: 3
-    name: "ハルの消臭剤 消臭ビーズ 空容器セット"
-    brand: "ハル・インダストリ"
-    price: 6204
-    capacity: "4kg"
-    pricePerUnit: "約1551円/kg"
-    rating: 4.68
-    reviewCount: 1672
-    features:
-      - "部屋や玄関などのニオイ対策に使える"
-      - "置き型・スプレー・詰替などから選べる"
-      - "ペットや靴まわりにも使いやすい"
-    pros:
-      - "生活臭対策に取り入れやすい"
-      - "容量違いを選べる"
-      - "設置場所に合わせやすい"
-    cons:
-      - "香りや無香料の好みは分かれる"
-      - "使用場所の注意書き確認が必要"
-    recommendedFor: "室内や玄関の消臭アイテムを比較したい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00t4h2n.3rdw6ed6.g00t4h2n.3rdw7c7c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhalindustry%2F10000009%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhalindustry%2Fi%2F10000009%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/halindustry/cabinet/12622677/10000009_2610.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhal-industry%2Fbs02.html"
-        matchStatus: "matched"
-        updatedAt: "2026-11-14"
-        price: 6204
-        rating: 4.66
-        reviewCount: 463
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/hal-industry_bs02"
-        available: true
-    genreId: "401619"
   - rank: 4
     name: "消臭ビーズ 600g"
     brand: "ハル・インダストリ"
-    price: 1155
+    price: 1016
     capacity: "600g"
-    pricePerUnit: "約1.9円/g"
+    pricePerUnit: "約1.7円/g"
     rating: 4.52
     reviewCount: 414
     features:

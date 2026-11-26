@@ -4,7 +4,7 @@ description: "吸水性と速乾性で選ぶバスマット比較。マイクロ
 category: "bath-mat"
 publishedAt: "2026-05-17"
 articleType: "comparison"
-updatedAt: "2026-11-24"
+updatedAt: "2026-11-26"
 draft: false
 products:
   - rank: 1
@@ -79,9 +79,9 @@ products:
   - rank: 3
     name: "今治タオル レオン バスマット"
     brand: "今治タオル"
-    price: 1980
+    price: 2290
     capacity: "42×67cm 1枚"
-    pricePerUnit: "約1980円/枚"
+    pricePerUnit: "約2290円/枚"
     rating: 4.61
     reviewCount: 2157
     features:
@@ -98,7 +98,7 @@ products:
       - "厚手で乾きにくい・硬めという声もある"
     recommendedFor: "家族で使えるしっかりした綿のマットがほしい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r0pnn.3rdw6bf8.g00r0pnn.3rdw7fc4/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcyberl2010%2F0215-0212-0101%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcyberl2010%2Fi%2F10000622%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/cyberl2010/cabinet/cartsale/lebm_18_3.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/cyberl2010/cabinet/01635375/colormat300pix6.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
@@ -186,7 +186,7 @@ products:
     price: 1170
     capacity: "40×60cm 1枚"
     rating: 4.34
-    reviewCount: 1109
+    reviewCount: 1110
     features:
       - "マイクロファイバーのマット（素材表示はポリエステル、裏面はTRP樹脂）"
       - "40×60cm・50×80cmと、それぞれ毛足短めのタイプがある"
@@ -221,7 +221,7 @@ products:
     price: 1999
     capacity: "40×60cm / 50×80cm 1枚"
     rating: 4.64
-    reviewCount: 3338
+    reviewCount: 3341
     features:
       - "マイクロファイバー素材で、従来の約2倍のボリュームの起毛"
       - "「1秒吸水」「標準バスマットの10倍」の表示（試験の条件は記載なし）"
@@ -244,7 +244,7 @@ products:
     price: 7480
     capacity: "1枚"
     rating: 4.59
-    reviewCount: 29450
+    reviewCount: 29451
     features:
       - "国産珪藻土・消石灰・パルプ繊維などの板状バスマット（約42.5×57.5cm・厚さ9mm・約1.8kg）"
       - "日本製・発売開始以来アスベスト不使用"
@@ -268,7 +268,7 @@ products:
     price: 2070
     capacity: "60×40cm / 70×50cm"
     rating: 4.43
-    reviewCount: 2743
+    reviewCount: 2744
     features:
       - "珪藻土パウダーを使った、やわらかいソフトタイプ（硬い板ではない）"
       - "厚さ5mm・60×40cmと70×50cm"
@@ -283,7 +283,7 @@ products:
       - "硬い珪藻土ほど吸わない、表面の生地がはがれたという声もある"
     recommendedFor: "珪藻土の冷たさや割れが気になる方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00u2t0n.3rdw6d5c.g00u2t0n.3rdw74d5/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fneo-lifestyle%2Fbmt001%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fneo-lifestyle%2Fi%2F10000083%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/neo-lifestyle/cabinet/zaka01/09054478/09779292/bmt001_cp.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/neo-lifestyle/cabinet/zaka01/09054478/09779292/bmt001.jpg?_ex=128x128"
     priceMax: 3480
     genreId: "100650"
 tags:

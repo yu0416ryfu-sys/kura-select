@@ -4,7 +4,7 @@ description: "大人用紙おむつ・尿とりパッドのおすすめ10選を1
 category: "adult-diaper"
 publishedAt: "2026-06-14"
 articleType: "comparison"
-updatedAt: "2026-11-22"
+updatedAt: "2026-11-26"
 products:
   - rank: 1
     name: "ひまわり にっこり緑茶パッド 2回吸収 300枚"
@@ -33,7 +33,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhimawari-kaigo%2F10004173.html"
         matchStatus: "matched"
-        updatedAt: "2026-11-23"
+        updatedAt: "2026-11-25"
         price: 7304
         rating: 4.77
         reviewCount: 94
@@ -101,7 +101,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhimawari-kaigo%2Fg00170.html"
         matchStatus: "matched"
-        updatedAt: "2026-11-23"
+        updatedAt: "2026-11-25"
         price: 7722
         rating: 4.5
         reviewCount: 102
@@ -135,7 +135,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhimawari-kaigo%2F5817.html"
         matchStatus: "matched"
-        updatedAt: "2026-11-23"
+        updatedAt: "2026-11-25"
         price: 6336
         rating: 4.51
         reviewCount: 81
@@ -183,7 +183,7 @@ products:
     capacity: "30枚×3袋（90枚）"
     pricePerUnit: "約70円/枚"
     rating: 4.76
-    reviewCount: 594
+    reviewCount: 595
     features:
       - "男女共用の夜間用の尿とりパッド（28×64cm・約7回分）"
       - "透湿タイプ・便を受け止める部分のある形"
@@ -216,8 +216,8 @@ products:
     price: 6336
     capacity: "88枚"
     pricePerUnit: "約72円/枚"
-    rating: 4.75
-    reviewCount: 284
+    rating: 4.74
+    reviewCount: 285
     features:
       - "男女兼用のパンツタイプ（Lサイズ・適合ウエスト80〜115cm）"
       - "約2回分の薄型吸収体・全面通気構造"
@@ -237,7 +237,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhimawari-kaigo%2F5819.html"
         matchStatus: "matched"
-        updatedAt: "2026-11-23"
+        updatedAt: "2026-11-25"
         price: 6336
         rating: 4.68
         reviewCount: 75
@@ -273,7 +273,7 @@ products:
     price: 3899
     capacity: "120枚"
     rating: 4.74
-    reviewCount: 835
+    reviewCount: 836
     features:
       - "男女共用のパンツタイプ（S〜XL・約2回分）"
       - "1枚ずつの個包装（XL の20枚入りを除く）"
@@ -291,13 +291,13 @@ products:
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkomamono%2Fxins-rps4t-m20-6.html"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fprintus%2Fxins-rps4t-xl20-6.html"
         matchStatus: "pending"
-        updatedAt: "2026-11-23"
-        price: 10004
+        updatedAt: "2026-11-25"
+        price: 11999
         rating: 0
         reviewCount: 0
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/komamono_xins-rps4t-m20-6"
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/printus_xins-rps4t-xl20-6"
         available: true
     priceMax: 9240
     genreId: "402842"
@@ -329,8 +329,8 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fe-kurashi%2Fxy146.html"
         matchStatus: "matched"
-        updatedAt: "2026-11-23"
-        price: 3599
+        updatedAt: "2026-11-25"
+        price: 3779
         rating: 4.44
         reviewCount: 50
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/e-kurashi_xy146"

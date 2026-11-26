@@ -4,7 +4,7 @@ description: "洗濯洗剤は粉末と液体のどっちがコスパがいい？
 category: "laundry-detergent"
 publishedAt: "2024-11-15"
 articleType: "comparison"
-updatedAt: "2026-11-24"
+updatedAt: "2026-11-26"
 products:
   - rank: 1
     name: "ファーファ 液体洗剤 ベビーフローラル 1100g×8個"
@@ -63,6 +63,17 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00s0vmn.3rdw6eed.g00s0vmn.3rdw7144/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbeisia%2F4903301365570-12%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbeisia%2Fi%2F10175198%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/beisia/cabinet/lion/4903301365570-12_00.jpg?_ex=128x128"
     genreId: "210182"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fbeisia%2F4903301365570-12.html"
+        matchStatus: "pending"
+        updatedAt: "2026-11-26"
+        price: 6000
+        rating: 5
+        reviewCount: 4
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/beisia_4903301365570-12"
+        available: true
   - rank: 3
     name: "アタック 高活性バイオパワー つめかえ用 750g×8パック"
     brand: "アタック（花王）"
@@ -92,7 +103,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsundrugec%2F4901301452429x8.html"
         matchStatus: "matched"
-        updatedAt: "2026-11-22"
+        updatedAt: "2026-11-26"
         price: 3960
         rating: 4.78
         reviewCount: 9
@@ -104,8 +115,8 @@ products:
     price: 2483
     capacity: "2300g"
     pricePerUnit: "約1.1円/g"
-    rating: 4.77
-    reviewCount: 35
+    rating: 4.78
+    reviewCount: 36
     features:
       - "濃縮タイプの液体洗剤（アタック抗菌EX比で使用量1/3）"
       - "抗菌・消臭と、洗たく槽の除菌・防カビをうたうシリーズ"
@@ -149,7 +160,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fnicobase%2F2nico-4987176352453.html"
         matchStatus: "matched"
-        updatedAt: "2026-11-22"
+        updatedAt: "2026-11-26"
         price: 2772
         rating: 0
         reviewCount: 0

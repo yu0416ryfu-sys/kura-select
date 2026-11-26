@@ -4,7 +4,7 @@ description: "犬用の無添加ジャーキーのおすすめ8選を1gあたり
 category: "dog-treat"
 publishedAt: "2026-11-22"
 articleType: "comparison"
-updatedAt: "2026-11-24"
+updatedAt: "2026-11-26"
 draft: false
 products:
   - rank: 1
@@ -13,8 +13,8 @@ products:
     price: 1080
     capacity: "60g×3パック（180g）"
     pricePerUnit: "約6.0円/g"
-    rating: 4.69
-    reviewCount: 39
+    rating: 4.7
+    reviewCount: 40
     features:
       - "原材料は鴨むね肉だけ、原産国は中国"
       - "名称に「間食用おやつ」と目的を表示"
@@ -107,8 +107,8 @@ products:
     price: 1800
     capacity: "110g"
     pricePerUnit: "約16円/g"
-    rating: 4.57
-    reviewCount: 56
+    rating: 4.58
+    reviewCount: 57
     features:
       - "原材料はカナダ産馬肉、製造国は日本"
       - "調味料・防腐剤を使っていないと表示"
@@ -147,6 +147,17 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00q2ben.3rdw6f15.g00q2ben.3rdw7b23/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fdotwan%2Fdw-jk02%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fdotwan%2Fi%2F10000586%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/dotwan/cabinet/goods/jerky_chips/dw-jk02.jpg?_ex=128x128"
     genreId: "409651"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkyusyusangyou%2Fdotwan-008.html"
+        matchStatus: "pending"
+        updatedAt: "2026-11-26"
+        price: 1199
+        rating: 4.96
+        reviewCount: 23
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/kyusyusangyou_dotwan-008"
+        available: true
   - rank: 7
     name: "馬肉ジャーキー スライス 30g×3パック"
     brand: "安井商店"

@@ -4,7 +4,7 @@ description: "VT・G9SKIN・夜用タイプなど人気ニキビパッチを1枚
 category: "acne-patch"
 publishedAt: "2026-05-27"
 articleType: "comparison"
-updatedAt: "2026-11-24"
+updatedAt: "2026-11-26"
 draft: false
 products:
   - rank: 1
@@ -71,8 +71,8 @@ products:
     price: 3250
     capacity: "240枚"
     pricePerUnit: "約14円/枚"
-    rating: 4.64
-    reviewCount: 91
+    rating: 4.63
+    reviewCount: 92
     features:
       - "VT PRO CICA クリアスポットパッチ 48枚入りの5個セット（計240枚）"
       - "1個に10mm×18枚・12mm×30枚の2サイズ入り。素材はハイドロコロイド"
@@ -278,7 +278,7 @@ products:
     price: 880
     capacity: "48枚"
     rating: 4.51
-    reviewCount: 1581
+    reviewCount: 1582
     features:
       - "1個48枚（10mm×18枚・12mm×30枚）の2サイズ入り。素材はハイドロコロイド"
       - "ツボクサ由来の成分配合とうたう化粧品（韓国製）。全成分にアシアチコシド・マデカシン酸・アシアチン酸"
