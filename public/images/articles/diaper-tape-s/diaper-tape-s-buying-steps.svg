@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 780" width="600" height="780" font-family="'Hiragino Sans','Noto Sans JP',system-ui,sans-serif">
+  <title>Sサイズのテープおむつは、サインを見て1袋から買う</title>
+  <rect width="600" height="780" fill="#ffffff"/>
+  <text x="300" y="44" text-anchor="middle" font-size="25" font-weight="700" fill="#1f2937">Sサイズは「1袋で試してから」増やす</text>
+  <text x="300" y="76" text-anchor="middle" font-size="17" fill="#6b7280">1枚あたりの安さは、使い切れる量の中で比べる</text>
+
+  <rect x="20" y="100" width="560" height="150" rx="14" fill="#eef5fc" stroke="#8db6e3" stroke-width="2"/>
+  <text x="40" y="136" font-size="19" font-weight="700" fill="#1f4f87">1. 新生児サイズのサインを確かめる</text>
+  <text x="40" y="170" font-size="17" fill="#374151">テープの留め位置がいちばん外側になった</text>
+  <text x="40" y="198" font-size="17" fill="#374151">ゴムの跡が残る・おむつがおへその下にくる</text>
+  <text x="40" y="226" font-size="17" fill="#374151">おしっこやうんちの量が増えて漏れやすくなった</text>
+
+  <rect x="20" y="270" width="560" height="150" rx="14" fill="#fdf6ec" stroke="#e7b874" stroke-width="2"/>
+  <text x="40" y="306" font-size="19" font-weight="700" fill="#8a5a14">2. まず1袋で試す</text>
+  <text x="40" y="340" font-size="17" fill="#374151">背中漏れ・肌の様子・テープの留めやすさを見る</text>
+  <text x="40" y="368" font-size="17" fill="#374151">漏れたら、量を買う前に当て方を見直す</text>
+  <text x="40" y="396" font-size="17" fill="#374151">それでも続くなら、別のメーカーの1袋に替える</text>
+
+  <rect x="20" y="440" width="560" height="150" rx="14" fill="#eef7f0" stroke="#86c29a" stroke-width="2"/>
+  <text x="40" y="476" font-size="19" font-weight="700" fill="#1f6b3a">3. 合ったら、使い切れる量だけ増やす</text>
+  <text x="40" y="510" font-size="17" fill="#374151">1日に使う枚数 × Mサイズに上がるまでの日数</text>
+  <text x="40" y="538" font-size="17" fill="#374151">1日8枚なら、70枚の袋で約8日、280枚で約35日</text>
+  <text x="40" y="566" font-size="15" fill="#6b7280">S と M は体重の目安が重なり、上がる時期は子どもで違う</text>
+
+  <rect x="20" y="610" width="560" height="150" rx="14" fill="#f1f1f4" stroke="#9ca3af" stroke-width="2"/>
+  <text x="40" y="646" font-size="19" font-weight="700" fill="#374151">4. 残りが1袋になったら、次のサインを見る</text>
+  <text x="40" y="680" font-size="17" fill="#374151">1と同じサインが出始めたら、Mサイズを1袋試す</text>
+  <text x="40" y="708" font-size="17" fill="#374151">まだ余裕があるなら、Sを1袋ずつ買い足す</text>
+  <text x="40" y="736" font-size="15" fill="#6b7280">買う前に、袋のサイズと体重の表示を確かめる</text>
+</svg>
