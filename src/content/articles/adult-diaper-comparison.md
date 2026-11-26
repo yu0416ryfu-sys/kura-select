@@ -149,7 +149,7 @@ products:
     capacity: "66枚"
     pricePerUnit: "約69円/枚"
     rating: 4.75
-    reviewCount: 709
+    reviewCount: 710
     features:
       - "男女共用の長時間用の尿とりパッド（約6回分）"
       - "販売ページの大きさは約30×63cm（表記に揺れあり）"
@@ -273,7 +273,7 @@ products:
     price: 3899
     capacity: "120枚"
     rating: 4.74
-    reviewCount: 836
+    reviewCount: 837
     features:
       - "男女共用のパンツタイプ（S〜XL・約2回分）"
       - "1枚ずつの個包装（XL の20枚入りを除く）"

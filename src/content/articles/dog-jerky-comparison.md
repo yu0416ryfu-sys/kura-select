@@ -55,29 +55,6 @@ products:
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/chanet/cabinet/1971/196962-1.jpg?_ex=128x128"
     genreId: "409651"
   - rank: 3
-    name: "フィールドゲインズ 鹿スライスジャーキー 50g"
-    brand: "フィールドゲインズ"
-    price: 600
-    capacity: "50g"
-    pricePerUnit: "約12円/g"
-    rating: 4.78
-    reviewCount: 82
-    features:
-      - "兵庫県産の鹿肉を薄くスライスし、そのまま乾燥したと説明"
-      - "酸化防止剤・防腐剤を使っていないと表示"
-      - "水を用意し、喉に詰まらせないよう見守るよう注意書きがある"
-    pros:
-      - "薄くて割りやすいという声が多い"
-      - "細長く割いて与えたら、よく噛むようになったという声"
-    cons:
-      - "カットにばらつきがあり、ハサミが要るという声がある"
-      - "噛み残しはカビの原因になることがあると注意書きにある"
-      - "送料が別にかかる出品"
-    recommendedFor: "少ない量で、鹿肉の食いつきを先に試したい人"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00s7i5n.3rdw604d.g00s7i5n.3rdw7225/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ffieldgaines%2F30000001-1%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ffieldgaines%2Fi%2F10000086%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/fieldgaines/cabinet/images/oyatsu/shika_sj_01.jpg?_ex=128x128"
-    genreId: "409651"
-  - rank: 4
     name: "犬用 鹿肉ジャーキー 150g×2個"
     brand: "miyudora pet"
     price: 4380
@@ -101,7 +78,7 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00st0wn.3rdw6c4f.g00st0wn.3rdw7482/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmiyudora-pet%2F300%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmiyudora-pet%2Fi%2F10000070%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/miyudora-pet/cabinet/biiino/item/main-image/20240227125208_1.jpg?_ex=128x128"
     genreId: "409651"
-  - rank: 5
+  - rank: 4
     name: "手作り馬肉ジャーキー 110g"
     brand: "PET＆HOME"
     price: 1800
@@ -122,6 +99,29 @@ products:
     recommendedFor: "体重別の目安量を見ながら、毎日少しずつあげたい人"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rtnjn.3rdw606a.g00rtnjn.3rdw7ad0/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhondatrade%2F10000084%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhondatrade%2Fi%2F10000129%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/hondatrade/cabinet/04563450/bnkjk110g.jpg?_ex=128x128"
+    genreId: "409651"
+  - rank: 5
+    name: "エゾシカ 鹿スライスジャーキー 50g"
+    brand: "小山だちょう園"
+    price: 825
+    capacity: "50g"
+    pricePerUnit: "約17円/g"
+    rating: 5
+    reviewCount: 3
+    features:
+      - "原材料は北海道の蝦夷鹿だけ。注文を受けてからカット・乾燥すると説明（届くまで5〜10日程度）"
+      - "到着後は冷凍、開封後は冷蔵で保管し、早めに与えるよう案内している"
+      - "生後3か月以内の犬には与えないよう表示。飼い主の見ている所で与えるよう注意書きがある"
+    pros:
+      - "固くなくサクサクした食感がよいという声"
+      - "食いつきがよいという声が複数（レビューは3件）"
+    cons:
+      - "受注生産のため、注文後のキャンセル・届いた後の返品や交換ができない"
+      - "手作りのため、形・大きさに差があると説明"
+      - "送料が別にかかる出品"
+    recommendedFor: "少ない量で、鹿肉の食いつきを先に試したい人"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rc47n.3rdw6e10.g00rc47n.3rdw78f2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Finuya%2Fdeer-slice%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Finuya%2Fi%2F10016152%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/inuya/cabinet/deer-slice.jpg?_ex=128x128"
     genreId: "409651"
   - rank: 6
     name: "ドットわん ササミジャーキー 70g"
@@ -247,7 +247,7 @@ faqs:
 | 「低温乾燥」「さっくり食感」のササミ | 手で割れてサクサクという声 | 歯の弱い高齢犬 |
 | 「硬めの食感」とうたうササミ | 筋に沿って割れるが、硬すぎるという声もある | 硬いおやつに慣れている犬 |
 
-ただし、天然の肉なので<strong>同じ商品でも袋ごとに厚みや筋の量が違う</strong>という声が、薄切りの商品にもありました。初めての商品は、届いたら1枚ずつ硬さを見てから与えると安心です。
+ただし、天然の肉なので<strong>同じ商品でも袋ごとに厚みや筋の量が違う</strong>ことがあり、スライスの商品の販売者も、手作りのため形・大きさに差があると書いています。初めての商品は、届いたら1枚ずつ硬さを見てから与えると安心です。
 
 ### 丸のみを防ぐ与え方
 
@@ -258,7 +258,7 @@ faqs:
 - 噛み残しはカビの原因になることがあるので、片付ける
 - 丸のみする癖のある犬には注意する
 
-環境省の「飼い主のためのペットフード・ガイドライン」も、新鮮な水を常にフードのそばに置くよう書いています。レビューでも、<strong>細長く割いて与えたら、よく噛んでから飲み込むようになった</strong>という声と、小さく切らないと飲み込みが心配という声がありました。小型犬には、犬の口の大きさに合わせて割ってから渡すのが確実です。
+環境省の「飼い主のためのペットフード・ガイドライン」も、新鮮な水を常にフードのそばに置くよう書いています。レビューでも、小さく切らないと飲み込みが心配という声がありました。小型犬には、犬の口の大きさに合わせて割ってから渡すのが確実です。
 
 ## 1日にどれくらいあげていい？
 
@@ -305,7 +305,8 @@ faqs:
 
 比べた商品では、次のように分かれました。
 
-- 原料も製造も日本: 鹿肉の3商品（兵庫県・山梨県）、国産の鶏ささみ（もう1つの鶏ささみは広島県産の鶏と説明しているが、原産国の欄は商品ページの文字では確かめられなかった）
+- 原料も製造も日本: 鹿肉の2商品（兵庫県・山梨県）、国産の鶏ささみ（もう1つの鶏ささみは広島県産の鶏と説明しているが、原産国の欄は商品ページの文字では確かめられなかった）
+- 原料は日本（北海道の蝦夷鹿）、原産国の欄は無い: 鹿スライスの1商品（注文後にカット・乾燥すると説明）
 - 原料は外国産、製造は日本: 馬肉の2商品（カナダ産、またはカナダ・南米・ヨーロッパ産）
 - 原産国が中国: 鴨むね肉（農林水産大臣認定の加熱処理工場で製造と説明）
 
@@ -316,6 +317,7 @@ faqs:
 保存料を使わないジャーキーは、開封後の扱いが商品ごとに違います。販売ページの案内は次のとおりです。
 
 - 開封後は冷蔵庫に入れ、早めに与える（馬肉の2商品・鶏ささみ・鴨むね肉）。馬肉の1商品は1週間をめどとしています
+- 到着後は冷凍し、開封後は冷蔵して早めに与える（鹿スライスの1商品）
 - 常温保存の案内だけで、開封後の注意が無い（鹿肉の2商品）
 - 保存料を使っていないので、期限内でも保管状況によってはカビが出ることがある（鶏ささみ）
 
@@ -323,7 +325,7 @@ faqs:
 
 ## 買ったあとに多い失敗（購入者レビューから）
 
-2026年11月22日に、比べた8商品の楽天のレビューを、星1〜3はほぼすべて（1商品は一部）、星5は商品ごとに8〜10件読みました。多かったのは次のような声です。
+2026年11月22日に、比べた8商品の楽天のレビューを、星1〜3はほぼすべて（1商品は一部）、星5は商品ごとに8〜10件読みました（鹿スライスの1商品は11月26日に差し替えたため、その日に全3件を読みました）。多かったのは次のような声です。
 
 ### 筋や脂身が混ざっていた
 

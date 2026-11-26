@@ -152,26 +152,26 @@ products:
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/bali-indah/cabinet/202306/t35fs74312-700ar.jpg?_ex=128x128"
     genreId: "213980"
   - rank: 6
-    name: "地球畑 有機米のおかゆ 7ヶ月 8袋セット"
+    name: "地球畑 有機野菜のおかゆ 7ヶ月 80g"
     brand: "地球畑"
-    price: 3900
-    capacity: "80g×8袋（640g）"
-    pricePerUnit: "約6.1円/g"
-    rating: 4.69
-    reviewCount: 13
+    price: 473
+    capacity: "80g"
+    pricePerUnit: "約5.9円/g"
+    rating: 5
+    reviewCount: 1
     features:
-      - "有機野菜のおかゆと、有機かぼちゃと味噌のおかゆが4袋ずつ"
-      - "有機JASで、食品添加物は不使用と表示"
-      - "パウチ。レンジで温めるときは別の容器に移す"
+      - "原材料は有機米（鹿児島県産）・有機たまねぎ・有機にんじん・有機じゃがいもだけ"
+      - "有機JASで、食品添加物は不使用と表示。小麦・卵・乳・そば・落花生・えび・かには使っていない"
+      - "パウチ。湯せんは袋のまま1〜2分、レンジは別の容器に移してラップし500Wで約30秒"
     pros:
-      - "市販のベビーフードを食べない子が食べたという声が複数"
-      - "かさばらず、外出や旅行に持って行きやすいという声"
+      - "そのままでも食べられ、温めるとよりおいしいと案内している"
+      - "80gの1袋から買えるので、食べるかどうかを試しやすい"
     cons:
-      - "離乳を始めて間もない頃には形状が早く、つぶして与えたという声"
-      - "かぼちゃと味噌のおかゆは大豆を使用"
-    recommendedFor: "有機の素材だけのおかゆを、外出用にも使いたい人"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rudin.3rdw6354.g00rudin.3rdw77bc/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fchikyubatake%2Fbaby-okayu7%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fchikyubatake%2Fi%2F10002021%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/chikyubatake/cabinet/03505023/05583408/baby-okayu7.jpg?_ex=128x128"
+      - "1袋ずつの出品で、送料が別にかかる"
+      - "開封後はその日のうちに食べきるよう案内している"
+    recommendedFor: "有機の素材だけのおかゆを、まず1袋から試したい人"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qf6in.3rdw6cdf.g00qf6in.3rdw72b7/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmugigokoro%2F4513280245239%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmugigokoro%2Fi%2F10007660%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/mugigokoro/cabinet/muso/kago-yyoka-700.jpg?_ex=128x128"
     genreId: "213980"
   - rank: 7
     name: "カインデスト プレミアム7ヶ月 離乳食セット 3種×2個"
@@ -263,7 +263,7 @@ faqs:
 |---|---|---|
 | カップ（ふたシール付き） | ふたを開けずに容器ごとお湯につける | ふたシールを完全にはがし、500〜600Wで約20秒 |
 | パウチ（グーグーキッチン） | 袋の封を切らずにお湯につける | 中身を容器に移してラップ。袋のままは不可 |
-| パウチ（有機米のおかゆ） | 袋のまま1〜2分 | 別の容器に移してラップ、500Wで約30秒 |
+| パウチ（有機野菜のおかゆ） | 袋のまま1〜2分 | 別の容器に移してラップ、500Wで約30秒 |
 | トレー（パックごはん） | ― | 500W・600Wで50秒 |
 | ガラス瓶 | ― | 必ず別の容器に取り分けてラップ |
 

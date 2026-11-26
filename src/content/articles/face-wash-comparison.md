@@ -72,7 +72,7 @@ products:
     capacity: "110g"
     pricePerUnit: "約9.0円/g"
     rating: 4.6
-    reviewCount: 2063
+    reviewCount: 2064
     features:
       - "ベントナイトやカオリンなどのクレイを配合した洗顔料"
       - "泡立てネットで泡立てて使う"
@@ -101,30 +101,6 @@ products:
         reviewCount: 0
     genreId: "405130"
   - rank: 4
-    name: "カーボニック クリーニング パック 150g×2点セット"
-    brand: "PLuS"
-    price: 3140
-    capacity: "150g×2点（300g）"
-    pricePerUnit: "約10円/g"
-    rating: 4.45
-    reviewCount: 3837
-    features:
-      - "スプレー缶から炭酸泡が出る洗顔・パック兼用品"
-      - "泡を顔全体に広げて約1分置き、洗い流す"
-      - "アボカドオイル・コラーゲン・ローヤルゼリーなどを配合"
-    pros:
-      - "ワンプッシュで泡が出るので泡立て不要"
-      - "もっちりした泡をパック感覚で使える"
-      - "2点セットでストックしながら使える"
-    cons:
-      - "通常の洗顔料より容量あたりの価格は高め"
-      - "泡切れが悪く、すすぎに時間がかかるという声が多い"
-      - "残りが減ると泡が出にくくなるという声がある"
-    recommendedFor: "時間のある日に、洗顔とパックを一度に済ませたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00po0zn.3rdw627e.g00po0zn.3rdw7621/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fluire%2Fpscp11000%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fluire%2Fi%2F10005954%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/luire/cabinet/plus04/clpack-2_off50_2.jpg?_ex=128x128"
-    genreId: "405130"
-  - rank: 5
     name: "レステモ フェイシャル ソープ 150g"
     brand: "レステモ"
     price: 2680
@@ -159,7 +135,7 @@ products:
         rating: 4.68
         reviewCount: 214
     genreId: "405130"
-  - rank: 6
+  - rank: 5
     name: "ルアド 洗顔パウダー 67g×3袋"
     brand: "ルアド"
     price: 4125
@@ -183,6 +159,30 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pytjn.3rdw6c43.g00pytjn.3rdw73fd/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fadpentel%2F590765%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fadpentel%2Fi%2F10000082%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/adpentel/cabinet/pro/imgrc0079724986.jpg?_ex=128x128"
     genreId: "405183"
+  - rank: 6
+    name: "カーボニック クリーニング パック 150g×2点セット"
+    brand: "PLuS"
+    price: 6280
+    capacity: "150g×2点（300g）"
+    pricePerUnit: "約21円/g"
+    rating: 4.45
+    reviewCount: 3837
+    features:
+      - "スプレー缶から炭酸泡が出る洗顔・パック兼用品"
+      - "泡を顔全体に広げて約1分置き、洗い流す"
+      - "アボカドオイル・コラーゲン・ローヤルゼリーなどを配合"
+    pros:
+      - "ワンプッシュで泡が出るので泡立て不要"
+      - "もっちりした泡をパック感覚で使える"
+      - "2点セットでストックしながら使える"
+    cons:
+      - "通常の洗顔料より容量あたりの価格は高め"
+      - "泡切れが悪く、すすぎに時間がかかるという声が多い"
+      - "残りが減ると泡が出にくくなるという声がある"
+    recommendedFor: "時間のある日に、洗顔とパックを一度に済ませたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00po0zn.3rdw627e.g00po0zn.3rdw7621/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fluire%2Fpscp11000%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fluire%2Fi%2F10005954%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/luire/cabinet/plus04/clpack-2_01.jpg?_ex=128x128"
+    genreId: "405130"
   - rank: 7
     name: "ファンケル ピュアモイスト泡洗顔料 150ml"
     brand: "ファンケル"
@@ -274,7 +274,7 @@ products:
       - "「無添加」の内訳が商品ページに書かれていない"
     recommendedFor: "ネット付きで泥洗顔を始めたい方・すっきりした洗い上がりが好きな方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00t45pn.3rdw68a0.g00t45pn.3rdw796e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftsurunishi%2F905b01n0bsytw%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftsurunishi%2Fi%2F10000261%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/tsurunishi/cabinet/salesamune/ts/905b01n0bsytw-50.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/tsurunishi/cabinet/allna/905b01n0bsytw/202509/905b01n0bsytw.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"

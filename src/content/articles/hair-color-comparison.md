@@ -1,6 +1,6 @@
 ---
-title: "白髪染め コスパ比較【2026年版】市販おすすめ10選"
-description: "ヘアボーテ・レフィーネ・KUROなど市販の白髪染めとヘアカラー10商品を比較。医薬部外品のヘアカラーと、カラートリートメント・カラーシャンプー・ヘナの違い、パッチテスト、色移りの防ぎ方を解説。"
+title: "白髪染め コスパ比較【2026年版】市販おすすめ9選"
+description: "ヘアボーテ・レフィーネ・KUROなど市販の白髪染めとヘアカラー9商品を比較。医薬部外品のヘアカラーと、カラートリートメント・カラーシャンプー・ヘナの違い、パッチテスト、色移りの防ぎ方を解説。"
 category: "hair-color"
 publishedAt: "2026-05-27"
 articleType: "comparison"
@@ -14,7 +14,7 @@ products:
     capacity: "240g"
     pricePerUnit: "約5.0円/g"
     rating: 4.1
-    reviewCount: 2909
+    reviewCount: 2910
     features:
       - "化粧品のカラートリートメント（天然色素ヘナ・真珠タンパク配合と表示）"
       - "シャンプー後に水気を切った髪に塗り、5〜10分おいて洗い流す"
@@ -130,7 +130,7 @@ products:
     capacity: "350g"
     pricePerUnit: "約16円/g"
     rating: 4.28
-    reviewCount: 3168
+    reviewCount: 3169
     features:
       - "シャンプー・トリートメント・白髪染めを1本にしたクリームシャンプー（350g）"
       - "塩基性染料・HC染料に炭を配合（成分表示）"
@@ -180,35 +180,13 @@ products:
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/akarie/cabinet/tasya120/7279161-e.jpg?_ex=128x128"
     genreId: "101878"
   - rank: 7
-    name: "2個セット KUROクリームシャンプー (400g×2) 白髪染め シャンプー トリ"
-    brand: "バランローズ"
-    price: 11616
-    capacity: "2個"
-    pricePerUnit: "約5808円/個"
-    rating: 4.51
-    reviewCount: 2777
-    features:
-      - "KUROクリームシャンプー400gの2本セット（メーカー公式店）"
-      - "ナチュラルブラック2本・ダークブラウン2本・各色1本から選べる"
-      - "化粧品の白髪染めシャンプー。ジアミン・酸化染料は不使用と表示"
-    pros:
-      - "黒と茶を1本ずつ選べる（2色を混ぜて色味を調整しているという声もある）"
-      - "公式店は、使い始めの3〜5回を続けて使い、あとは好みの濃さに合わせて使う流れを案内している"
-    cons:
-      - "1本の中身は400gの単品と同じ（1本あたりの価格は比較表で確認したい）"
-      - "すすぎ不足や濡れたままだと、汗や雨で色落ちして衣服・タオル・枕カバーにつくことがある"
-    recommendedFor: "単品で色と使い方を確かめてから、続けて使うと決めた方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pvonn.3rdw6ebb.g00pvonn.3rdw720c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsakurap%2F10008571%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsakurap%2Fi%2F10005224%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/sakurap/cabinet/sum/10008571.jpg?_ex=128x128"
-    genreId: "507833"
-  - rank: 8
     name: "3個セット KUROクリームシャンプー (400g×3) 白髪染め シャンプー トリ"
     brand: "バランローズ"
     price: 17424
     capacity: "3個"
     pricePerUnit: "約5808円/個"
     rating: 4.53
-    reviewCount: 1759
+    reviewCount: 1760
     features:
       - "KUROクリームシャンプー400gの3本セット（メーカー公式店）"
       - "黒3本・茶3本・黒2本と茶1本・茶2本と黒1本の4通りから選べる"
@@ -223,7 +201,7 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pvonn.3rdw6ebb.g00pvonn.3rdw720c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsakurap%2F10008572%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsakurap%2Fi%2F10005225%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/sakurap/cabinet/sum/10008572.jpg?_ex=128x128"
     genreId: "507833"
-  - rank: 9
+  - rank: 8
     name: "ヘアボーテエクラ ボタニカルエアカラーフォームEX 2本セット"
     brand: "フューチャーラボ（ヘアボーテエクラ）"
     price: 11000
@@ -246,7 +224,7 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rso1n.3rdw62e6.g00rso1n.3rdw78e6/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkirei-mitsuketa%2Fshb_0002132%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkirei-mitsuketa%2Fi%2F10016287%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kirei-mitsuketa/cabinet/hb_22/shb_0002132_1.jpg?_ex=128x128"
     genreId: "210724"
-  - rank: 10
+  - rank: 9
     name: "白髪染め レフィーネ ヘッドスパ トリートメント カラー 300g 1本or2本セッ"
     brand: "レフィーネ（スヴェンソン）"
     price: 4380

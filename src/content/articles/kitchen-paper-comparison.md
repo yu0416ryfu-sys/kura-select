@@ -4,7 +4,7 @@ description: "キッチンペーパーを1枚あたりのコストで徹底比�
 category: "kitchen-paper"
 publishedAt: "2026-04-30"
 articleType: "comparison"
-updatedAt: "2026-11-14"
+updatedAt: "2026-11-26"
 products:
   - rank: 1
     name: "ネピア 激吸収 キッチンタオル 4ロール×12パック（100カット）"
@@ -117,7 +117,7 @@ products:
     capacity: "70カット×16ロール（1120枚）"
     pricePerUnit: "約5.1円/枚"
     rating: 4.6
-    reviewCount: 218
+    reviewCount: 219
     features:
       - "独自のフェルト構造で圧倒的な吸水力"
       - "1枚で雑巾1枚分の吸水量"

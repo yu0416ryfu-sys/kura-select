@@ -82,7 +82,7 @@ products:
     capacity: "100g"
     pricePerUnit: "約13円/g"
     rating: 4.3
-    reviewCount: 11104
+    reviewCount: 11105
     features:
       - "炭酸カルシウムとヒドロキシアパタイトを研磨剤に使うペースト（化粧品）"
       - "フッ素とラウリル硫酸ナトリウムを使わない処方"
@@ -140,8 +140,8 @@ products:
     price: 1760
     capacity: "100g"
     pricePerUnit: "約18円/g"
-    rating: 4.38
-    reviewCount: 679
+    rating: 4.5
+    reviewCount: 137
     features:
       - "塩化マグネシウムとシルクを配合したゼリー状のペースト（化粧品）"
       - "研磨剤不使用をうたう、泡立たないタイプ"
@@ -155,8 +155,8 @@ products:
       - "全成分にフッ素の記載はない"
       - "チューブから出しにくいという声があり、開封後は6か月以内に使う表示がある"
     recommendedFor: "研磨剤不使用で泡立たない歯磨き粉を探している方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00q5inn.3rdw6732.g00q5inn.3rdw7aa0/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Faimere%2Fm0090025%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Faimere%2Fi%2F10003860%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/aimere/cabinet/08234025/imgrc0132742671.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qf6in.3rdw6cdf.g00qf6in.3rdw72b7/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmugigokoro%2Fmade_whiteningtooth75%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmugigokoro%2Fi%2F10001120%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/mugigokoro/cabinet/bytakakura/daiji-whtp-700.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
@@ -269,7 +269,7 @@ products:
     price: 2580
     capacity: "120g"
     rating: 4.48
-    reviewCount: 2440
+    reviewCount: 2439
     features:
       - "モノフルオロリン酸ナトリウムなど3つの有効成分を配合した薬用歯磨き（医薬部外品）"
       - "炭酸カルシウムと無水ケイ酸を清掃剤に使う、やや硬めのペースト"
@@ -284,7 +284,7 @@ products:
       - "注文者の名前で発送されて驚いたという声がある"
     recommendedFor: "フッ素入りの薬用ペーストで着色の手入れも考えたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tknln.3rdw6c40.g00tknln.3rdw7e6d/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fwhithwhite%2F906b07qzwqjrm%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fwhithwhite%2Fi%2F10000130%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/whithwhite/cabinet/salesamune/20261119m/906b07qzwqjrm-50.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/whithwhite/cabinet/whith/top/00/906b07qzwqjrm.jpg?_ex=128x128"
     priceMax: 6840
     genreId: "204759"
   - rank: 10

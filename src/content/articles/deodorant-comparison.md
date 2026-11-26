@@ -225,9 +225,9 @@ products:
   - rank: 8
     name: "エージーデオ24 パウダースプレー 無香料 180g"
     brand: "資生堂（Ag DEO 24）"
-    price: 1740
+    price: 1687
     capacity: "180g"
-    pricePerUnit: "約9.7円/g"
+    pricePerUnit: "約9.4円/g"
     rating: 4.5
     reviewCount: 100
     features:
@@ -242,8 +242,8 @@ products:
       - "スプレー缶のため飛行機への持ち込み制限あり"
       - "香り付きタイプと間違いやすい"
     recommendedFor: "ニオイケアを長時間持続させたい方・大容量で家族共有したい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00umkyn.3rdw6eac.g00umkyn.3rdw7d2b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fburiruby%2Fplwduu6zfep6pqvwj6ico43byu%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fburiruby%2Fi%2F10800028%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/buriruby/cabinet/12709467/39781338_1.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ucgcn.3rdw65f1.g00ucgcn.3rdw7456/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flinears%2Fgcjwnjsentncvx3udzeuooj5cu%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flinears%2Fi%2F11441205%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/linears/cabinet/12131906/49471679_1.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"

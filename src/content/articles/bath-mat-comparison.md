@@ -48,7 +48,7 @@ products:
     capacity: "45×65cm 1枚"
     pricePerUnit: "約1000円/枚"
     rating: 4.4
-    reviewCount: 1385
+    reviewCount: 1386
     features:
       - "綿100%の双糸を使ったタオル地（約45×65cm）"
       - "立体感のあるドット柄をジャガードで織ったデザイン"
@@ -79,9 +79,9 @@ products:
   - rank: 3
     name: "今治タオル レオン バスマット"
     brand: "今治タオル"
-    price: 2290
+    price: 1970
     capacity: "42×67cm 1枚"
-    pricePerUnit: "約2290円/枚"
+    pricePerUnit: "約1970円/枚"
     rating: 4.61
     reviewCount: 2157
     features:
@@ -186,7 +186,7 @@ products:
     price: 1170
     capacity: "40×60cm 1枚"
     rating: 4.34
-    reviewCount: 1110
+    reviewCount: 1113
     features:
       - "マイクロファイバーのマット（素材表示はポリエステル、裏面はTRP樹脂）"
       - "40×60cm・50×80cmと、それぞれ毛足短めのタイプがある"
@@ -268,7 +268,7 @@ products:
     price: 2070
     capacity: "60×40cm / 70×50cm"
     rating: 4.43
-    reviewCount: 2744
+    reviewCount: 2745
     features:
       - "珪藻土パウダーを使った、やわらかいソフトタイプ（硬い板ではない）"
       - "厚さ5mm・60×40cmと70×50cm"

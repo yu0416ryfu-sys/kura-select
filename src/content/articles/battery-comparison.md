@@ -82,7 +82,7 @@ products:
     capacity: "20本"
     pricePerUnit: "約64円/本"
     rating: 4.66
-    reviewCount: 1253
+    reviewCount: 1254
     features:
       - "10年長期保存対応のパナソニック製アルカリ電池"
       - "1パック4本×5パック構成で使いやすい量を分割して管理できる"

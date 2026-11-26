@@ -312,7 +312,7 @@ products:
     price: 3780
     capacity: "1000ml"
     rating: 4.63
-    reviewCount: 1285
+    reviewCount: 1286
     features:
       - "クリーニング店向けに作られたというおしゃれ着用の液体洗剤（カチオン系）"
       - "ウール・シルク・レーヨン・キュプラなども洗える"

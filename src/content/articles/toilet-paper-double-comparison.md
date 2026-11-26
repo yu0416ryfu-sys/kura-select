@@ -76,6 +76,40 @@ products:
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/wakuwaku-kobe/cabinet/toipe_ippann/imgrc0095014555.jpg?_ex=128x128"
     genreId: "501098"
   - rank: 4
+    name: "スコッティ フラワーパック 3倍長持ち ダブル"
+    brand: "日本製紙クレシア（スコッティ）"
+    price: 6710
+    capacity: "75m×4ロール×12パック（3倍巻き）"
+    rating: 4.75
+    reviewCount: 968
+    features:
+      - "3倍長持ち設計で交換頻度が大幅に減る"
+      - "ダブルタイプで使い心地が良い"
+      - "フラワーパックでほんのりフローラルの香り"
+    pros:
+      - "1ロール75mの長尺で交換の手間が少ない"
+      - "スコッティブランドの安定した品質"
+      - "48ロール大容量でまとめ買いに最適"
+    cons:
+      - "保管スペースが必要"
+      - "通常ロールより径が大きくホルダーを選ぶ場合がある"
+    recommendedFor: "交換頻度を減らしたい方・まとめ買い派・コスパ重視の方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rqlbn.3rdw622d.g00rqlbn.3rdw72ca/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fk-home%2F7165192%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fk-home%2Fi%2F10077532%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/k-home/cabinet/06135991/09551991/7165192.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftanomail%2F7666919.html"
+        matchStatus: "matched"
+        updatedAt: "2026-08-26"
+        price: 8210
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/tanomail_7666919"
+        available: true
+        rating: 4.78
+        reviewCount: 557
+    genreId: "501098"
+    pricePerUnit: "約1.9円/m"
+  - rank: 5
     name: "スコッティ フラワーパック 3倍長持ち ダブル 4ロール×12袋"
     brand: "日本製紙クレシア（スコッティ）"
     price: 6869
@@ -109,7 +143,7 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/cocodecow_ye3041"
         available: true
     genreId: "501098"
-  - rank: 5
+  - rank: 6
     name: "スコッティ フラワーパック 3倍長持ち ダブル 芯あり 4ロール"
     brand: "スコッティ"
     price: 595
@@ -143,7 +177,7 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/at-tree_101-r001-4901750227302"
         available: true
     genreId: "501098"
-  - rank: 6
+  - rank: 7
     name: "スコッティ トイレットペーパー フラワーパック 2倍長持ち 12ロール12ロール"
     brand: "日本製紙クレシア（スコッティ）"
     price: 4899
@@ -177,7 +211,7 @@ products:
         rating: 4.77
         reviewCount: 135
     genreId: "501098"
-  - rank: 7
+  - rank: 8
     name: "ハロー トイレットペーパー ダブル 2倍巻き"
     brand: "ハロー"
     price: 7261
@@ -211,7 +245,7 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/soukai_4580287284745"
         available: true
     genreId: "501098"
-  - rank: 8
+  - rank: 9
     name: "日本製紙クレシア スコッティ フラワーパック 3倍長持ち ダブル 芯あり 75m×48ロール（4ロール×12パック）"
     brand: "スコッティ"
     price: 11077
@@ -245,7 +279,7 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/tanomail_9620775"
         available: true
     genreId: "501098"
-  - rank: 9
+  - rank: 10
     name: "ネピア おしりセレブ ダブル 40m×4ロール"
     brand: "王子ネピア（ネピア）"
     price: 734
@@ -278,40 +312,6 @@ products:
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/tanomail_5647190"
         available: true
-    genreId: "501098"
-  - rank: 10
-    name: "スコッティ フラワーパック 3倍長持ち ダブル"
-    brand: "日本製紙クレシア（スコッティ）"
-    price: 5845
-    capacity: "75m×4ロール×12パック（3倍巻き）"
-    rating: 4.75
-    reviewCount: 968
-    features:
-      - "3倍長持ち設計で交換頻度が大幅に減る"
-      - "ダブルタイプで使い心地が良い"
-      - "フラワーパックでほんのりフローラルの香り"
-    pros:
-      - "1ロール75mの長尺で交換の手間が少ない"
-      - "スコッティブランドの安定した品質"
-      - "48ロール大容量でまとめ買いに最適"
-    cons:
-      - "保管スペースが必要"
-      - "通常ロールより径が大きくホルダーを選ぶ場合がある"
-    recommendedFor: "交換頻度を減らしたい方・まとめ買い派・コスパ重視の方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rqlbn.3rdw622d.g00rqlbn.3rdw72ca/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fk-home%2F7165192%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fk-home%2Fi%2F10077532%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/k-home/cabinet/06135991/09551991/7165192.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftanomail%2F7666919.html"
-        matchStatus: "matched"
-        updatedAt: "2026-08-26"
-        price: 8210
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/tanomail_7666919"
-        available: true
-        rating: 4.78
-        reviewCount: 557
-    priceMax: 7458
     genreId: "501098"
 tags:
   - "トイレットペーパー"

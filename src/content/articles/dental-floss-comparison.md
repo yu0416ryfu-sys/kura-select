@@ -245,7 +245,7 @@ products:
     capacity: "250m"
     pricePerUnit: "約12円/m"
     rating: 4.45
-    reviewCount: 237
+    reviewCount: 238
     features:
       - "384本の細い繊維を束ねた高密度フロス設計"
       - "詰め替え用でホルダーを再利用できるエコ設計"

@@ -160,7 +160,7 @@ products:
     price: 8279
     capacity: "新生児336枚/S336枚/M248枚/L216枚"
     rating: 4.68
-    reviewCount: 3997
+    reviewCount: 3998
     features:
       - "テープタイプの乳幼児向け紙おむつ"
       - "全方向に伸びるストレッチ設計でフィットしやすい"

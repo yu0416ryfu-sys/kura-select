@@ -4,7 +4,7 @@ description: "パンツ型おむつのBIGサイズを1枚あたりの価格で�
 category: "diaper"
 publishedAt: "2026-08-14"
 articleType: "comparison"
-updatedAt: "2026-11-19"
+updatedAt: "2026-11-26"
 draft: false
 products:
   - rank: 1
@@ -88,41 +88,6 @@ products:
         available: true
     genreId: "205198"
   - rank: 4
-    name: "パンパース さらさらケア パンツ スーパージャンボ ビッグ 38枚"
-    brand: "パンパース（P&G）"
-    price: 2280
-    capacity: "38枚（ビッグサイズ）"
-    pricePerUnit: "約60円/枚"
-    rating: 4.5
-    reviewCount: 2
-    features:
-      - "通気性を重視した標準ラインのパンツ型"
-      - "ビッグサイズのスーパージャンボパック"
-      - "動いてもズレにくいフィット設計"
-    pros:
-      - "定番ラインなので価格と品質のバランスを取りやすい"
-      - "日中の活動量が多い時期に使いやすい"
-      - "入手性がよく買い足しに困らない"
-    cons:
-      - "上位ラインに比べると肌あたりはあっさりしている"
-      - "夜間の長時間利用では吸収量を確認したい"
-    recommendedFor: "日中用のビッグサイズをコスパ重視で選びたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pxfkn.3rdw6005.g00pxfkn.3rdw7ac5/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkenkoex%2Fkk001-4902430148948%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkenkoex%2Fi%2F10056863%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kenkoex/cabinet/40515/ccadfa5b3b0bfa4c5e_1.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsundrugec%2F4902430148948.html"
-        matchStatus: "review"
-        updatedAt: "2026-09-29"
-        price: 1940
-        rating: 4.4
-        reviewCount: 5
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/sundrugec_4902430148948"
-        available: false
-        matchNotes: "リンク切れ(404)"
-    genreId: "205198"
-  - rank: 5
     name: "メリーズ エアスルー パンツ ビッグより大きいサイズ"
     brand: "花王（メリーズ）"
     price: 4463
@@ -155,6 +120,41 @@ products:
         reviewCount: 1
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/beisia_4901301442918-3"
         available: true
+    genreId: "205198"
+  - rank: 5
+    name: "パンパース さらさらケア パンツ スーパージャンボ ビッグ 36枚"
+    brand: "パンパース（P&G）"
+    price: 2579
+    capacity: "36枚（ビッグサイズ）"
+    pricePerUnit: "約72円/枚"
+    rating: 4.5
+    reviewCount: 2
+    features:
+      - "通気性を重視した標準ラインのパンツ型"
+      - "ビッグサイズのスーパージャンボパック"
+      - "動いてもズレにくいフィット設計"
+    pros:
+      - "定番ラインなので価格と品質のバランスを取りやすい"
+      - "日中の活動量が多い時期に使いやすい"
+      - "入手性がよく買い足しに困らない"
+    cons:
+      - "上位ラインに比べると肌あたりはあっさりしている"
+      - "夜間の長時間利用では吸収量を確認したい"
+    recommendedFor: "日中用のビッグサイズをコスパ重視で選びたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00sargn.3rdw6a7b.g00sargn.3rdw7d8c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmyrepi-2%2F4987176404466r%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmyrepi-2%2Fi%2F10341123%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/myrepi-2/cabinet/2026a/4987176404466.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsundrugec%2F4902430148948.html"
+        matchStatus: "review"
+        updatedAt: "2026-09-29"
+        price: 1940
+        rating: 4.4
+        reviewCount: 5
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/sundrugec_4902430148948"
+        available: false
+        matchNotes: "リンク切れ(404)"
     genreId: "205198"
   - rank: 6
     name: "ムーニーマン パンツ スーパービッグ 女の子"

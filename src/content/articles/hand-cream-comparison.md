@@ -101,9 +101,9 @@ products:
   - rank: 4
     name: "ハンドクリーム 80g べたつかない 無香料"
     brand: "てんまん香粧薬房"
-    price: 2500
+    price: 2000
     capacity: "80g"
-    pricePerUnit: "約31円/g"
+    pricePerUnit: "約25円/g"
     rating: 4.61
     reviewCount: 1990
     features:
@@ -216,7 +216,7 @@ products:
   - rank: 8
     name: "ハンド＆キューティクルクリーム"
     brand: "ミロビーナ"
-    price: 3410
+    price: 3069
     capacity: "60g"
     rating: 4.58
     reviewCount: 389
@@ -246,7 +246,7 @@ products:
         reviewCount: 3
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/okaimono-ichiba_4580333760087"
         available: true
-    priceMax: 10230
+    priceMax: 9207
     genreId: "304759"
   - rank: 9
     name: "ヴァセリン インテンシブケア ハンドローション 60mL"

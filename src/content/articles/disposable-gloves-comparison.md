@@ -249,7 +249,7 @@ products:
     price: 890
     capacity: "100枚"
     rating: 4.58
-    reviewCount: 3880
+    reviewCount: 3881
     features:
       - "FDA認証取得の医療・食品衛生法対応ニトリル手袋"
       - "厚み0.1mmで耐穿刺性を確保した設計"
@@ -269,10 +269,10 @@ products:
   - rank: 9
     name: "ニトリル手袋 パウダーフリー 100枚"
     brand: "TRINITY COSME"
-    price: 880
+    price: 890
     capacity: "100枚"
     rating: 4.7
-    reviewCount: 1618
+    reviewCount: 1622
     features:
       - "食品衛生法適合のパウダーフリーニトリル手袋"
       - "SS/S/M/Lサイズ展開と青・白のカラー選択"

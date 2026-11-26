@@ -167,6 +167,40 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/petkan_1523462"
         available: true
   - rank: 6
+    name: "クリーンサンド"
+    brand: "アイリスオーヤマ"
+    price: 2412
+    capacity: "5L×4袋（20L）"
+    rating: 4.61
+    reviewCount: 1978
+    features:
+      - "ベントナイト鉱物系・ペレットタイプの固まる猫砂"
+      - "抗菌・脱臭機能付きで衛生管理を考慮した設計"
+      - "飛び散り防止のペレット形状"
+    pros:
+      - "固まりが硬く処理しやすい鉱物系の定番モデル"
+      - "抗菌機能でトイレ周りの衛生を保ちやすい"
+      - "国内大手ブランドで安定した品質と入手しやすさがある"
+    cons:
+      - "鉱物系のため重量があり保管・廃棄場所の確保が必要"
+      - "燃えないゴミとして処理する地域が多い"
+    recommendedFor: "抗菌機能付きで固まりやすい鉱物系を選びたい方"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qr6on.3rdw679d.g00qr6on.3rdw7ab9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcat-land%2F1917955%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcat-land%2Fi%2F10165665%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/cat-land/cabinet/10841085/1917955-00.jpg?_ex=128x128"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fchanet%2F309805.html"
+        matchStatus: "matched"
+        updatedAt: "2026-10-04"
+        price: 2782
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/chanet_309805"
+        available: true
+        rating: 0
+        reviewCount: 2
+    genreId: "204174"
+    pricePerUnit: "約121円/L"
+  - rank: 7
     name: "パインウッド"
     brand: "スノーフレーク"
     price: 3156
@@ -200,40 +234,6 @@ products:
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/mapet_4538449100013-set4-az"
         available: true
     genreId: "204174"
-  - rank: 7
-    name: "クリーンサンド"
-    brand: "アイリスオーヤマ"
-    price: 2680
-    capacity: "5L×4袋（20L）"
-    rating: 4.61
-    reviewCount: 1978
-    features:
-      - "ベントナイト鉱物系・ペレットタイプの固まる猫砂"
-      - "抗菌・脱臭機能付きで衛生管理を考慮した設計"
-      - "飛び散り防止のペレット形状"
-    pros:
-      - "固まりが硬く処理しやすい鉱物系の定番モデル"
-      - "抗菌機能でトイレ周りの衛生を保ちやすい"
-      - "国内大手ブランドで安定した品質と入手しやすさがある"
-    cons:
-      - "鉱物系のため重量があり保管・廃棄場所の確保が必要"
-      - "燃えないゴミとして処理する地域が多い"
-    recommendedFor: "抗菌機能付きで固まりやすい鉱物系を選びたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qr6on.3rdw679d.g00qr6on.3rdw7ab9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcat-land%2F1917955%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcat-land%2Fi%2F10165665%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/cat-land/cabinet/10841085/1917955-00.jpg?_ex=128x128"
-    offers:
-      - provider: "yahoo"
-        label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fchanet%2F309805.html"
-        matchStatus: "matched"
-        updatedAt: "2026-10-04"
-        price: 2782
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/chanet_309805"
-        available: true
-        rating: 0
-        reviewCount: 2
-    genreId: "204174"
-    pricePerUnit: "約134円/L"
   - rank: 8
     name: "ペットキレイ ニオイをとる砂"
     brand: "ライオン"
@@ -241,7 +241,7 @@ products:
     capacity: "5L×4袋（20L）"
     pricePerUnit: "約176円/L"
     rating: 4.69
-    reviewCount: 2464
+    reviewCount: 2465
     features:
       - "ベントナイト鉱物系・固まるタイプの消臭猫砂"
       - "大手メーカーライオンによる消臭設計"
@@ -307,8 +307,8 @@ products:
     brand: "クリーンビート"
     price: 4430
     capacity: "7L×4袋"
-    rating: 4.8
-    reviewCount: 55
+    rating: 4.79
+    reviewCount: 56
     features:
       - "大豆粕（おから）由来の植物系猫砂"
       - "トイレに流せる・燃えるゴミに出せる"

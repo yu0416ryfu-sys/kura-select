@@ -112,9 +112,9 @@ products:
   - rank: 4
     name: "ジレット マッハシンスリーターボ 替刃 8個"
     brand: "ジレット（Gillette）"
-    price: 2350
+    price: 2570
     capacity: "替刃8個"
-    pricePerUnit: "約294円/個"
+    pricePerUnit: "約321円/個"
     rating: 3
     reviewCount: 2
     features:

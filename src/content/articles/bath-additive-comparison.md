@@ -298,7 +298,7 @@ products:
   - rank: 10
     name: "木酢液 紀州備長炭 原液"
     brand: "紀州びお和歌山"
-    price: 1380
+    price: 1400
     capacity: "500ml"
     rating: 4.22
     reviewCount: 6124

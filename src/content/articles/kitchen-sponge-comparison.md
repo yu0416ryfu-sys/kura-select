@@ -169,11 +169,11 @@ products:
   - rank: 6
     name: "サンサンスポンジ 8個セット"
     brand: "ダイニチ"
-    price: 2765
-    capacity: "8個（4個×2組）"
-    pricePerUnit: "約346円/個"
-    rating: 4.81
-    reviewCount: 2657
+    price: 3700
+    capacity: "8個（4個×2セット）"
+    pricePerUnit: "約463円/個"
+    rating: 0
+    reviewCount: 0
     features:
       - "全9色から選べるモノトーン系カラー展開"
       - "長持ちしやすい設計の食器洗いスポンジ"
@@ -186,8 +186,8 @@ products:
       - "カラーによっては人気で欠品しやすい"
       - "厚みや硬さの好みは分かれやすい"
     recommendedFor: "カラー展開を楽しみながらまとめ買いしたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r384n.3rdw62f6.g00r384n.3rdw76df/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fdainichi-corp%2F10000025%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fdainichi-corp%2Fi%2F10000058%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/dainichi-corp/cabinet/14263350/imgrc0124813364.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pm7vn.3rdw60d4.g00pm7vn.3rdw7580/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkirei%2Fsunsunsponge-2%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkirei%2Fi%2F10004617%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kirei/cabinet/img16/sun2sg-hin8.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"

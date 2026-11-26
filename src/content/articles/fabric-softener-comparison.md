@@ -115,7 +115,7 @@ products:
     capacity: "1300mL×6個（7800mL）"
     pricePerUnit: "約0.75円/mL"
     rating: 4.77
-    reviewCount: 327
+    reviewCount: 328
     features:
       - "家庭用の詰め替えパウチをケース単位でまとめた構成"
       - "アロマオイル配合で香りの立ち上がりを設計したシリーズ"

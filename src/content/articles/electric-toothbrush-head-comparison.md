@@ -10,9 +10,9 @@ products:
   - rank: 1
     name: "ブラウン オーラルB EB17 対応 互換替えブラシ 32本"
     brand: "ビューティーブリッジ（オーラルB 互換品）"
-    price: 2574
+    price: 2420
     capacity: "32本"
-    pricePerUnit: "約80円/本"
+    pricePerUnit: "約76円/本"
     rating: 4.31
     reviewCount: 181
     features:
@@ -145,13 +145,13 @@ products:
         reviewCount: 24
     genreId: "208522"
   - rank: 6
-    name: "オーラルB iO用 替えブラシ アルティメイトクリーン 6本セット"
+    name: "オーラルB iO 替えブラシ アルティメイトクリーン ホワイト 6本"
     brand: "Braun Oral-B"
-    price: 8338
+    price: 6789
     capacity: "6本"
-    pricePerUnit: "約1390円/本"
-    rating: 4.59
-    reviewCount: 227
+    pricePerUnit: "約1132円/本"
+    rating: 4
+    reviewCount: 1
     features:
       - "iOシリーズ（iO2〜iO9）専用設計"
       - "純正品のためiO本体の自動認識機能が正常動作"
@@ -164,8 +164,8 @@ products:
       - "iO専用のため旧機種（EB20等）には非対応"
       - "互換品より1本あたり単価が高め"
     recommendedFor: "iOシリーズ使用中で純正品にこだわりたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00t4rin.3rdw6d84.g00t4rin.3rdw7ca0/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Foralb-braun%2Fhds-ultimate2plus4%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Foralb-braun%2Fi%2F10001249%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/oralb-braun/cabinet/item/hds-ultimate2plus4/hds-ulti2p4_2409.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00rfqvn.3rdw6b07.g00rfqvn.3rdw76c9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcompmoto-r%2F4987176163028%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcompmoto-r%2Fi%2F11306668%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/compmoto-r/cabinet/g4988/4987176163028.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
@@ -177,7 +177,7 @@ products:
         available: true
         rating: 4.65
         reviewCount: 48
-    genreId: "208522"
+    genreId: "201528"
   - rank: 7
     name: "オーラルB iO専用 替えブラシ ラディアントホワイト 2本"
     brand: "Braun"

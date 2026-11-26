@@ -4,17 +4,17 @@ description: "IH対応の一人用鍋を16cm・18cm中心に9製品比較。卓�
 category: "cooking-pot"
 publishedAt: "2026-05-10"
 articleType: "comparison"
-updatedAt: "2026-11-22"
+updatedAt: "2026-11-26"
 draft: false
 products:
   - rank: 1
     name: "ひとり用鍋 浅型 17cm IH対応 蓋付 LD-485"
     brand: "ベストコ"
-    price: 1090
+    price: 920
     capacity: "17cm / 約1.1L"
-    pricePerUnit: "約991円/L"
-    rating: 4.5
-    reviewCount: 4
+    pricePerUnit: "約836円/L"
+    rating: 0
+    reviewCount: 0
     features:
       - "IH対応の17cm浅型一人鍋"
       - "サイズ約 幅23.5×奥行18.5×高さ7cm・満水容量約1.1L"
@@ -27,8 +27,8 @@ products:
       - "深さが控えめのため汁気の多い鍋には向きにくい"
       - "容量が限られるため多めに作る用途には小さい"
     recommendedFor: "卓上で浅型の一人鍋を使いたい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00uczfn.3rdw6070.g00uczfn.3rdw7487/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkanadeya2022%2Fn1579%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkanadeya2022%2Fi%2F10007117%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kanadeya2022/cabinet/tmb/n/n1501-n1600/n1579.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r8gxn.3rdw6125.g00r8gxn.3rdw7562/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fpremoa%2F4571151224851%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fpremoa%2Fi%2F11097048%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/premoa/cabinet/pics/688/4571151224851.jpg?_ex=128x128"
     genreId: "215913"
   - rank: 2
     name: "一人鍋 深型 14cm IH対応 蓋付 LD-486"

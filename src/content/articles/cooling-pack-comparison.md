@@ -4,7 +4,7 @@ description: "繰り返し使えるステンレス製・ハードタイプの保
 category: "cooling-pack"
 publishedAt: "2026-05-24"
 articleType: "comparison"
-updatedAt: "2026-11-18"
+updatedAt: "2026-11-26"
 products:
   - rank: 1
     name: "ロゴス 倍速凍結 氷点下パックXL セット"
@@ -225,7 +225,7 @@ products:
   - rank: 8
     name: "HUGEL 氷点下保冷剤 急速凍結タイプ Mサイズ"
     brand: "HUGEL"
-    price: 1180
+    price: 1060
     capacity: "Mサイズ 1個"
     rating: 4.35
     reviewCount: 161
@@ -243,7 +243,7 @@ products:
     recommendedFor: "サイズと冷却力を選んで用途に合わせたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pjh9n.3rdw6262.g00pjh9n.3rdw7cf0/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Funidy%2F107933%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Funidy%2Fi%2F11161201%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/unidy/cabinet/11071608/13015942/imgrc0114404094.jpg?_ex=128x128"
-    priceMax: 2680
+    priceMax: 2410
     genreId: "101991"
   - rank: 9
     name: "NISHIZARC ステンレス保冷剤"

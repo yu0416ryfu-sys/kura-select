@@ -14,7 +14,7 @@ products:
     capacity: "80枚×40個（3200枚）"
     pricePerUnit: "約1.3円/枚"
     rating: 4.78
-    reviewCount: 8557
+    reviewCount: 8560
     features:
       - "おしりふきとして使えるウェットシート"
       - "詰め替え用やまとめ買いで選びやすい構成"
@@ -239,11 +239,11 @@ products:
         reviewCount: 979
     genreId: "112779"
   - rank: 8
-    name: "おしり拭き 流せる シート 純水99.9% W保湿成分配合"
+    name: "レック 純水99.9% トイレに流せるおしりふき 保湿成分配合 60枚×15個"
     brand: "Lec.Be"
-    price: 2912
-    capacity: "60枚×15個"
-    pricePerUnit: "約3.2円/枚"
+    price: 3731
+    capacity: "60枚×15個（900枚）"
+    pricePerUnit: "約4.1円/枚"
     rating: 0
     reviewCount: 0
     features:
@@ -258,8 +258,8 @@ products:
       - "流せる製品のため単価がやや高い"
       - "詰まりのリスクがゼロではない"
     recommendedFor: "処理の手軽さと肌への優しさの両立を求める方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00u0eon.3rdw6d08.g00u0eon.3rdw7b97/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbontan108%2F20260805115700_104%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbontan108%2Fi%2F10089464%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/bontan108/cabinet/r_2026080514/20260805115700_104_1.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tsaan.3rdw6edf.g00tsaan.3rdw7dc8/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fflaack%2Fb09mt85kdw%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fflaack%2Fi%2F10002480%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/flaack/cabinet/a001/b09mt85kdw.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"

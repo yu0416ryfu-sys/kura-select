@@ -126,7 +126,6 @@ products:
         matchConfidence: "high"
         matchedCapacity: "400枚（200組）×90パック"
         updatedAt: "2026-07-16T00:00:00.000Z"
-    priceMax: 6480
     genreId: "100670"
   - rank: 5
     name: "ネピア ソフトパックティッシュ 200組 80パック"
@@ -154,7 +153,7 @@ products:
   - rank: 6
     name: "Smart Yell ソフトパックティッシュ 150組×50個"
     brand: "スマートエール"
-    price: 2640
+    price: 3050
     capacity: "150組×50個（7500組）"
     rating: 4.74
     reviewCount: 19
@@ -182,7 +181,7 @@ products:
         matchedCapacity: "150組 5P×5セット（25個）"
         matchNotes: "入数違い採用（楽天は150組×50個）"
         updatedAt: "2026-07-16T00:00:00.000Z"
-    priceMax: 4301
+    priceMax: 4980
     genreId: "100670"
   - rank: 7
     name: "フルール ソフトパックティッシュ 200組×80個"
@@ -190,7 +189,7 @@ products:
     price: 5980
     capacity: "200組×80個"
     rating: 4.66
-    reviewCount: 1315
+    reviewCount: 1316
     features:
       - "1パック200組（400枚）・5個×16パックの80個"
       - "シートは189×195mmで、この記事の中では大きめ"

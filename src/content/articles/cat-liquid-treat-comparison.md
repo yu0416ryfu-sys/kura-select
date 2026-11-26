@@ -95,7 +95,7 @@ products:
       - "かつお・まぐろかつお味に比べ、まぐろ味はなめらかさが劣るという声"
     recommendedFor: "原材料の短い液状おやつを、毎日1本ずつあげたい人"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00slbfn.3rdw664c.g00slbfn.3rdw7e6f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fthinkrich%2Fsk05973%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fthinkrich%2Fi%2F10222902%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/thinkrich/cabinet/sale2_muryou_05/s05973.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/thinkrich/cabinet/muryou_05/s05973.jpg?_ex=128x128"
     genreId: "112125"
   - rank: 4
     name: "ピュリナワン おやつ 健康免疫サポート 免疫ケア バラエティ 14g×60本"

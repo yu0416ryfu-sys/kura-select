@@ -77,11 +77,11 @@ products:
   - rank: 3
     name: "ビオレUV アクアリッチ ウォータリーエッセンス 120g"
     brand: "花王（ビオレ）"
-    price: 1131
+    price: 1408
     capacity: "120g"
-    pricePerUnit: "約9.4円/g"
-    rating: 4.63
-    reviewCount: 8
+    pricePerUnit: "約12円/g"
+    rating: 5
+    reviewCount: 1
     features:
       - "世界初のミクロディフェンス処方で塗りムラを防止"
       - "水感エッセンスで軽いつけ心地"
@@ -94,8 +94,8 @@ products:
       - "70gと容量がやや少なめ"
       - "グラム単価は高め"
     recommendedFor: "化粧下地としても使いたい方・汗をかく場面が多い方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ugynn.3rdw6d73.g00ugynn.3rdw7c64/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakutensokuhaimart%2F4901301449450%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakutensokuhaimart%2Fi%2F10026575%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutensokuhaimart/cabinet/rakuten24/450/4901301449450.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00s6cvn.3rdw68eb.g00s6cvn.3rdw74cd/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnanohanadrg%2F4901301449450%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnanohanadrg%2Fi%2F10018389%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/nanohanadrg/cabinet/syohin/202502/4901301449450a.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"

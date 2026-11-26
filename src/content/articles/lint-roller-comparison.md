@@ -4,16 +4,16 @@ description: "粘着クリーナー（コロコロ）を1巻あたりのコス�
 category: "lint-roller"
 publishedAt: "2026-05-01"
 articleType: "comparison"
-updatedAt: "2026-11-23"
+updatedAt: "2026-11-26"
 products:
   - rank: 1
     name: "粘着クリーナー スペアテープ 粘着王 カーペット用 3巻入"
     brand: "Life-do.Plus（粘着王）"
-    price: 252
+    price: 236
     capacity: "3巻入り（幅160mm）"
-    pricePerUnit: "約84円/巻"
+    pricePerUnit: "約79円/巻"
     rating: 5
-    reviewCount: 5
+    reviewCount: 1
     features:
       - "各社共通サイズで互換性のある日本製スペアテープ"
       - "幅160mm×紙芯内径38mmの標準サイズ"
@@ -26,7 +26,7 @@ products:
       - "ニトムズなどの専用テープと比べてブランド認知度が低め"
       - "幅160mmのため本体との適合を事前に確認が必要"
     recommendedFor: "汎用タイプの日本製スペアテープを手頃に購入したい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ru0on.3rdw60b7.g00ru0on.3rdw7edf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fat-life%2F103-4991087869993%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fat-life%2Fi%2F12627655%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ru0on.3rdw60b7.g00ru0on.3rdw7edf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fat-life%2F103-4991087869993-today202607%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fat-life%2Fi%2F12772769%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/at-life/cabinet/vic202403/4991087869993.jpg?_ex=128x128"
     genreId: "567230"
   - rank: 2
@@ -89,9 +89,9 @@ products:
   - rank: 4
     name: "アイム ミラクルくるsoujikko 粘着クリーナー"
     brand: "アイム"
-    price: 4607
+    price: 4146
     capacity: "18巻"
-    pricePerUnit: "約256円/巻"
+    pricePerUnit: "約230円/巻"
     rating: 4.87
     reviewCount: 30
     features:
@@ -215,7 +215,7 @@ products:
   - rank: 9
     name: "アイリスオーヤマ 粘着クリーナー スペアテープ 90巻入り"
     brand: "アイリスオーヤマ"
-    price: 820
+    price: 730
     capacity: "-"
     pricePerUnit: "-"
     rating: 4.78

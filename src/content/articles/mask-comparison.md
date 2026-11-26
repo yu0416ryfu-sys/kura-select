@@ -148,8 +148,8 @@ products:
     brand: "WEIMALL"
     price: 298
     capacity: "50枚"
-    rating: 4.17
-    reviewCount: 3759
+    rating: 4.18
+    reviewCount: 3761
     features:
       - "使い捨て不織布マスク"
       - "日常使いしやすい枚数"
@@ -182,7 +182,7 @@ products:
     price: 298
     capacity: "51枚"
     rating: 4.22
-    reviewCount: 5796
+    reviewCount: 5797
     features:
       - "使い捨て不織布マスク"
       - "日常使いしやすい枚数"
@@ -205,7 +205,7 @@ products:
     price: 276
     capacity: "20枚"
     rating: 4.06
-    reviewCount: 9290
+    reviewCount: 9292
     features:
       - "使い捨て不織布マスク"
       - "日常使いしやすい枚数"

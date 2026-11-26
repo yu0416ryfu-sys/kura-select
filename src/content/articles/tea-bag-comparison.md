@@ -151,7 +151,7 @@ products:
     capacity: "3g×10個×3袋（30個）"
     pricePerUnit: "約83円/個"
     rating: 4.88
-    reviewCount: 56
+    reviewCount: 57
     features:
       - "2026年度産新茶使用の静岡緑茶"
       - "三角ティーバッグ形状・カテキン・EGCg含有"

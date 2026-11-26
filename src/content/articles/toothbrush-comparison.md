@@ -13,7 +13,7 @@ products:
     capacity: "50本"
     pricePerUnit: "約36円/本"
     rating: 4.66
-    reviewCount: 1319
+    reviewCount: 1320
     features:
       - "歯ブラシ本体または電動歯ブラシ"
       - "まとめ買いしやすい本数"
@@ -52,13 +52,13 @@ products:
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/hiyocohealth/cabinet/09504983/imgrc0117762758.jpg?_ex=128x128"
     genreId: "506385"
   - rank: 3
-    name: "Ci200シリーズ 歯科専売歯ブラシ"
+    name: "Ci200シリーズ 歯科専売歯ブラシ 20本"
     brand: "Ciメディカル"
-    price: 1230
+    price: 1700
     capacity: "20本"
-    pricePerUnit: "約62円/本"
-    rating: 4.46
-    reviewCount: 2435
+    pricePerUnit: "約85円/本"
+    rating: 4.89
+    reviewCount: 9
     features:
       - "歯ブラシ本体または電動歯ブラシ"
       - "まとめ買いしやすい本数"
@@ -70,8 +70,8 @@ products:
       - "毛のかたさやサイズ確認が必要"
       - "電動タイプは替えブラシ確認が必要"
     recommendedFor: "歯ブラシを本数と使いやすさで比較したい方"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00r6h3n.3rdw6e54.g00r6h3n.3rdw719f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fd-fit%2F41868%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fd-fit%2Fi%2F10007938%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/d-fit/cabinet/2026_1119_p10/kirikae2/41868_sam2.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tzj4n.3rdw68f0.g00tzj4n.3rdw7213/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcosline%2Fci-20-20%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcosline%2Fi%2F10002808%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/cosline/cabinet/11411007/11411009/imgrc0104942504.jpg?_ex=128x128"
     genreId: "506385"
   - rank: 4
     name: "Ci 700シリーズ 歯科専売歯ブラシ 選べる20本"

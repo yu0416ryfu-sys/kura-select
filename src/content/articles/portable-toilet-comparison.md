@@ -101,10 +101,10 @@ products:
   - rank: 4
     name: "簡易トイレ 半永久保存 非常用トイレセット"
     brand: "RONE_SHOP"
-    price: 1280
+    price: 1080
     capacity: "60回分（50回＋10回）"
     rating: 4.5
-    reviewCount: 7890
+    reviewCount: 7892
     features:
       - "1箱は凝固剤60袋（50袋＋10袋）と黒い汚物袋60枚、防臭袋5枚"
       - "凝固剤1袋で500mlの水が約30秒で固まる表示"
@@ -119,7 +119,7 @@ products:
     recommendedFor: "凝固剤と袋を同じ数だけ、箱単位でまとめて備えたい世帯"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00ue8bn.3rdw65ff.g00ue8bn.3rdw7b7c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fr1-shop%2Fcsd-2%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fr1-shop%2Fi%2F10000062%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/r1-shop/cabinet/09975530/09975535/csdgai/zt.jpg?_ex=128x128"
-    priceMax: 25900
+    priceMax: 22980
     genreId: "501137"
     offers:
       - provider: "yahoo"
@@ -135,7 +135,7 @@ products:
   - rank: 5
     name: "簡易トイレ 防災士監修 凝固剤 消臭 セット"
     brand: "Taigu"
-    price: 2980
+    price: 2652
     capacity: "120回分（100回＋20回）"
     rating: 4.32
     reviewCount: 176
@@ -164,7 +164,7 @@ products:
         reviewCount: 113
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/tenton-store_portabletoilet01f2"
         available: true
-    priceMax: 23750
+    priceMax: 21138
     genreId: "501137"
   - rank: 6
     name: "簡易トイレ 防災士監修 50回分セット"
@@ -240,7 +240,7 @@ products:
     price: 1580
     capacity: "20回分"
     rating: 4.5
-    reviewCount: 7375
+    reviewCount: 7378
     features:
       - "凝固剤（10g入り）20回分・排泄用袋20枚・便座カバー1枚・防臭袋2枚・手袋50枚"
       - "20回分の箱は約19.5×30.5×3.2cmの薄い硬紙箱"
@@ -254,7 +254,7 @@ products:
       - "製造国の表示が販売ページに見当たらない"
     recommendedFor: "1人暮らしの備えや、まず少ない回数で使い方を試したい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00u49fn.3rdw6725.g00u49fn.3rdw7bf8/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhiromifashionhouse%2Fmkhrm60f%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhiromifashionhouse%2Fi%2F10005004%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/hiromifashionhouse/cabinet/12169031/12169039/imgrc0133129252.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/hiromifashionhouse/cabinet/12169031/12169039/imgrc0134736558.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"

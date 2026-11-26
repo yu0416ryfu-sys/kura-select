@@ -60,7 +60,7 @@ products:
     capacity: "500mL×24本（12L）"
     pricePerUnit: "約109円/L"
     rating: 4.69
-    reviewCount: 2560
+    reviewCount: 2561
     features:
       - "飲み切りやすい500mLサイズ・24本入り"
       - "楽天市場限定販売のオリジナル天然水"
@@ -234,7 +234,6 @@ products:
     recommendedFor: "産地・水源を重視したい方・まずは少量から試してみたい方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00prken.3rdw6b48.g00prken.3rdw72d3/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fenetroom%2F7169488%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fenetroom%2Fi%2F10180096%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/enetroom/cabinet/tenposupport08/4571454860046.jpg?_ex=128x128"
-    priceMax: 2080
     genreId: "201351"
   - rank: 10
     name: "サントリー天然水 南アルプス 2L×12本"

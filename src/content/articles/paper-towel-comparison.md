@@ -203,11 +203,11 @@ products:
   - rank: 7
     name: "クレシア EFハンドタオル スリムEX ソフトタイプ200 小判 200組×36袋"
     brand: "日本製紙クレシア"
-    price: 6347
+    price: 5820
     capacity: "200組×36袋"
-    pricePerUnit: "約0.88円/組"
-    rating: 4.8
-    reviewCount: 253
+    pricePerUnit: "約0.81円/組"
+    rating: 4.83
+    reviewCount: 42
     features:
       - "小判（170×218mm・商品ページ表記）の2枚重ね"
       - "ソフトタイプで蛍光染料不使用"
@@ -220,8 +220,8 @@ products:
       - "1枚ものより1回あたりのコストは上がりやすい"
       - "中判ホルダーではすき間ができる"
     recommendedFor: "小判ホルダーで、柔らかい2枚重ねを選びたい人"
-    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00tszqn.3rdw6853.g00tszqn.3rdw7518/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fpro-ste%2F9004951242%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fpro-ste%2Fi%2F10011137%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/pro-ste/cabinet/item-003/9004951242-01.jpg?_ex=128x128"
+    rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00s4gan.3rdw631b.g00s4gan.3rdw7c3a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcheeky%2Fu521881%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcheeky%2Fi%2F10410587%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/cheeky/cabinet/21751-22000/u521881.jpg?_ex=128x128"
     genreId: "568271"
   - rank: 8
     name: "モナリスタオル L200WS ダブルソフト 中判 200組×30パック"

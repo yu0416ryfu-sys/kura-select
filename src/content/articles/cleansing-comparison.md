@@ -268,7 +268,7 @@ products:
       - "濃いメイクや重ね付けのマスカラは残るという声がある"
     recommendedFor: "さっぱりした洗い上がりが好きな方・ナチュラルメイクの方"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00u6mzn.3rdw632b.g00u6mzn.3rdw764e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fanuajapan%2Fanua00061%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fanuajapan%2Fi%2F10000149%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/anuajapan/cabinet/deal/anua00061_20.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/anuajapan/cabinet/anua00061/oil_new_thum.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"

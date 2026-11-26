@@ -205,7 +205,7 @@ products:
     price: 1980
     capacity: "100枚入り"
     rating: 4.71
-    reviewCount: 235
+    reviewCount: 236
     features:
       - "PFASフリー・ノンフッ素と表示された未晒（無漂白）のシート"
       - "1枚30×40cmのカット済みで、切らずに使える"

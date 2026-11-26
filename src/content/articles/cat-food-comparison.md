@@ -27,7 +27,7 @@ products:
       - "7歳を過ぎたらインドア 7+ をメーカーがすすめている"
     recommendedFor: "室内で暮らす成猫が4匹前後いて、インドアを食べ慣れている家庭"
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00qufsn.3rdw6149.g00qufsn.3rdw719a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2F1096dog%2Fw-105176-00-00%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2F1096dog%2Fi%2F10013214%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
-    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/1096dog/cabinet/royalcanin_t/royalcanintrial/rinji/w-105176-00-00.jpg?_ex=128x128"
+    imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/1096dog/cabinet/royalcanin_t/royalcanintrial/tokuten/w-105176-00-00.jpg?_ex=128x128"
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
@@ -299,7 +299,7 @@ products:
     price: 3980
     capacity: "2kg"
     rating: 4.72
-    reviewCount: 1107
+    reviewCount: 1109
     features:
       - "12種類から1つを選ぶ出品で、どれも2kg"
       - "室内猫アダルト・子猫用・エイジングケア・穀物フリー・毛玉ケア・減量用などがある"

@@ -10,9 +10,9 @@ products:
   - rank: 1
     name: "浄水カートリッジ ブリタ互換 4層フィルター ヤシガラ活性炭 12個セット"
     brand: "YJ暮らし"
-    price: 4590
+    price: 4099
     capacity: "12個"
-    pricePerUnit: "約383円/個"
+    pricePerUnit: "約342円/個"
     rating: 4.64
     reviewCount: 14
     features:
@@ -59,8 +59,8 @@ products:
     price: 5470
     capacity: "12個"
     pricePerUnit: "約456円/個"
-    rating: 4.14
-    reviewCount: 36
+    rating: 4.11
+    reviewCount: 37
     features:
       - "マクストラ・マクストラプラス・マクストラプロ規格に対応とされる互換品"
       - "販売店が対応機種の確かめ方を案内している"
@@ -117,7 +117,7 @@ products:
     capacity: "8個"
     pricePerUnit: "約1079円/個"
     rating: 4.78
-    reviewCount: 27220
+    reviewCount: 27223
     features:
       - "ブリタ公式ショップが販売する日本仕様の純正カートリッジ"
       - "マクストラプロ規格のポット型浄水器に差し込んで使う"
