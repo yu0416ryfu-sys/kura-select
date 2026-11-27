@@ -35,7 +35,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftanosinia%2F233086.html"
         matchStatus: "pending"
-        updatedAt: "2026-11-25"
+        updatedAt: "2026-11-26"
         price: 1745
         rating: 0
         reviewCount: 0
@@ -68,8 +68,8 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsundrugec%2F4902508120883.html"
-        matchStatus: "pending"
-        updatedAt: "2026-11-25"
+        matchStatus: "matched"
+        updatedAt: "2026-11-26"
         price: 799
         rating: 0
         reviewCount: 0
@@ -103,7 +103,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fdrugpure%2F4987060007490-1ketp.html"
         matchStatus: "matched"
-        updatedAt: "2026-11-25"
+        updatedAt: "2026-11-26"
         price: 1037
         rating: 0
         reviewCount: 0
@@ -137,7 +137,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsundrugec%2F4902508121019.html"
         matchStatus: "matched"
-        updatedAt: "2026-11-25"
+        updatedAt: "2026-11-26"
         price: 1681
         rating: 4.6
         reviewCount: 5
@@ -171,7 +171,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fonline-3%2Ft1436-01a.html"
         matchStatus: "matched"
-        updatedAt: "2026-11-25"
+        updatedAt: "2026-11-26"
         price: 1617
         rating: 0
         reviewCount: 1
@@ -205,7 +205,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fjex%2F1215822-3.html"
         matchStatus: "matched"
-        updatedAt: "2026-11-25"
+        updatedAt: "2026-11-26"
         price: 5441
         rating: 0
         reviewCount: 0

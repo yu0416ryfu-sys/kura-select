@@ -4,7 +4,7 @@ description: "洗い流さないヘアオイルを1mLあたりの単価で比較
 category: "hair-oil"
 publishedAt: "2026-05-25"
 articleType: "comparison"
-updatedAt: "2026-11-26"
+updatedAt: "2026-11-27"
 draft: false
 products:
   - rank: 1
@@ -35,7 +35,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsundrugec%2F4902806100587.html"
         matchStatus: "matched"
-        updatedAt: "2026-11-26"
+        updatedAt: "2026-11-27"
         price: 949
         rating: 4.5
         reviewCount: 16
@@ -69,7 +69,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fosharecafe%2F6067551.html"
         matchStatus: "matched"
-        updatedAt: "2026-11-26"
+        updatedAt: "2026-11-27"
         price: 1070
         rating: 0
         reviewCount: 0
@@ -190,7 +190,7 @@ products:
     price: 3520
     capacity: "100mL"
     rating: 4.64
-    reviewCount: 4788
+    reviewCount: 4792
     features:
       - "ブランシュ・シトラスベール・ジャスミンドレなど、複数の香りから選べる"
       - "ヘアのほか、手・爪・体やバスオイルとしても使えるマルチユースオイル"
@@ -226,7 +226,7 @@ products:
     price: 1100
     capacity: "75mL"
     rating: 4.75
-    reviewCount: 2946
+    reviewCount: 2947
     features:
       - "水を加えないアウトバストリートメント。全成分の先頭はシクロペンタシロキサン・ジメチコンで、海藻エキスやオリーブ果実油を配合"
       - "無香料・無着色で、防腐剤無添加"
@@ -247,7 +247,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fosharecafe%2F6016812.html"
         matchStatus: "matched"
-        updatedAt: "2026-11-24"
+        updatedAt: "2026-11-27"
         price: 2563
         rating: 4.44
         reviewCount: 16

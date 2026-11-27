@@ -4,7 +4,7 @@ description: "猫砂を鉱物系・木炭系・おから系・紙系・木質ペ
 category: "cat-litter"
 publishedAt: "2026-05-26"
 articleType: "comparison"
-updatedAt: "2026-11-26"
+updatedAt: "2026-11-27"
 draft: false
 products:
   - rank: 1
@@ -68,7 +68,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkurosu%2F66101385ku.html"
         matchStatus: "matched"
-        updatedAt: "2026-11-24"
+        updatedAt: "2026-11-27"
         price: 5160
         rating: 4.27
         reviewCount: 103
@@ -125,7 +125,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkurosu%2F66101386ku.html"
         matchStatus: "matched"
-        updatedAt: "2026-11-24"
+        updatedAt: "2026-11-27"
         price: 5160
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/kurosu_66101386ku"
         available: true
@@ -158,13 +158,13 @@ products:
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fpetkan%2F1523462.html"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fnyanko%2F1523462.html"
         matchStatus: "pending"
-        updatedAt: "2026-11-24"
-        price: 2860
-        rating: 4.23
-        reviewCount: 31
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/petkan_1523462"
+        updatedAt: "2026-11-27"
+        price: 2699
+        rating: 4.37
+        reviewCount: 817
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/nyanko_1523462"
         available: true
   - rank: 6
     name: "クリーンサンド"
@@ -172,7 +172,7 @@ products:
     price: 2412
     capacity: "5L×4袋（20L）"
     rating: 4.61
-    reviewCount: 1978
+    reviewCount: 1979
     features:
       - "ベントナイト鉱物系・ペレットタイプの固まる猫砂"
       - "抗菌・脱臭機能付きで衛生管理を考慮した設計"
@@ -261,7 +261,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsundrugec%2F4903351011250x4.html"
         matchStatus: "matched"
-        updatedAt: "2026-11-24"
+        updatedAt: "2026-11-27"
         price: 3180
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/sundrugec_4903351011250x4"
         available: true

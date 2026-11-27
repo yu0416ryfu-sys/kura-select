@@ -4,7 +4,7 @@ description: "ダブルのトイレットペーパーを1mあたりのコスト�
 category: "toilet-paper"
 publishedAt: "2026-05-16"
 articleType: "comparison"
-updatedAt: "2026-11-26"
+updatedAt: "2026-11-27"
 products:
   - rank: 1
     name: "再生紙トイレット12RW ダブル 12ロール×8パック"
@@ -13,7 +13,7 @@ products:
     capacity: "27.5m×12ロール×8パック"
     pricePerUnit: "約1.2円/m"
     rating: 4.59
-    reviewCount: 3747
+    reviewCount: 3748
     features:
       - "楽天市場で取り扱いのある追加候補"
       - "日用品として使いやすい定番タイプ"
@@ -101,12 +101,12 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftanomail%2F7666919.html"
         matchStatus: "matched"
-        updatedAt: "2026-08-26"
-        price: 8210
+        updatedAt: "2026-11-27"
+        price: 6124
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/tanomail_7666919"
         available: true
-        rating: 4.78
-        reviewCount: 557
+        rating: 4.77
+        reviewCount: 564
     genreId: "501098"
     pricePerUnit: "約1.9円/m"
   - rank: 5
@@ -116,7 +116,7 @@ products:
     capacity: "75m×4ロール×12袋"
     pricePerUnit: "約1.9円/m"
     rating: 4.63
-    reviewCount: 1550
+    reviewCount: 1551
     features:
       - "楽天市場で取り扱いのある追加候補"
       - "日用品として使いやすい定番タイプ"

@@ -227,7 +227,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Frecommendo%2Fte-4901301510778.html"
         matchStatus: "matched"
-        updatedAt: "2026-11-22"
+        updatedAt: "2026-11-27"
         price: 5181
         rating: 0
         reviewCount: 0
@@ -318,8 +318,8 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fbackyard%2Fkf741.html"
         matchStatus: "matched"
-        updatedAt: "2026-11-22"
-        price: 1754
+        updatedAt: "2026-11-27"
+        price: 1765
         rating: 0
         reviewCount: 1
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/backyard_kf741"

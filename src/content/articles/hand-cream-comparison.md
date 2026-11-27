@@ -4,7 +4,7 @@ description: "ハンドクリームをコスパ・保湿力・成分で徹底比
 category: "hand-cream"
 publishedAt: "2026-05-04"
 articleType: "comparison"
-updatedAt: "2026-11-26"
+updatedAt: "2026-11-27"
 products:
   - rank: 1
     name: "ユースキン ハンドクリーム つけかえパウチ 180g"
@@ -12,8 +12,8 @@ products:
     price: 1210
     capacity: "180g"
     pricePerUnit: "約6.7円/g"
-    rating: 4.74
-    reviewCount: 72
+    rating: 4.73
+    reviewCount: 73
     features:
       - "ユースキンのポンプ本体にパウチごと付け替えて使うつけかえ用"
       - "有効成分を配合した指定医薬部外品（販売名 ユースキンAa）"

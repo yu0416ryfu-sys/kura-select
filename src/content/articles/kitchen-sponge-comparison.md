@@ -64,6 +64,17 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00scwvn.3rdw672a.g00scwvn.3rdw7cad/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fdusdus-shop%2Fdssmn6-1%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fdusdus-shop%2Fi%2F10000188%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/dusdus-shop/cabinet/05082460/noprice/area/dssmn6_area.jpg?_ex=128x128"
     genreId: "401520"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fdusrara%2F101.html"
+        matchStatus: "pending"
+        updatedAt: "2026-11-27"
+        price: 1220
+        rating: 4.82
+        reviewCount: 729
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/dusrara_101"
+        available: true
   - rank: 3
     name: "【お試し・初回購入限定】太陽油脂　パックスナチュロン　キッチンスポンジ"
     brand: "太陽油脂（パックスナチュロン）"
@@ -193,7 +204,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsunsunsponge%2Ftss08b.html"
         matchStatus: "matched"
-        updatedAt: "2026-11-26"
+        updatedAt: "2026-11-27"
         price: 3073
         rating: 4.86
         reviewCount: 288

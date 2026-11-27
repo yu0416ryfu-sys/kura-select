@@ -4,7 +4,7 @@ description: "食洗機用洗剤を1回あたりのコストで徹底比較。�
 category: "dishwasher-detergent"
 publishedAt: "2026-04-30"
 articleType: "comparison"
-updatedAt: "2026-11-24"
+updatedAt: "2026-11-27"
 products:
   - rank: 1
     name: "緑の魔女 オートキッチン 食洗機用洗剤 800g"
@@ -135,7 +135,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fnirvanashop%2Fs-b07bbljjxx-20260329.html"
         matchStatus: "pending"
-        updatedAt: "2026-11-26"
+        updatedAt: "2026-11-27"
         price: 2544
         rating: 0
         reviewCount: 0
@@ -261,7 +261,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fecomarche%2F100000017.html"
         matchStatus: "matched"
-        updatedAt: "2026-11-26"
+        updatedAt: "2026-11-27"
         price: 1210
         rating: 0
         reviewCount: 1
@@ -304,7 +304,7 @@ products:
   - rank: 10
     name: "フィニッシュ パワーキューブ ビッグパック"
     brand: "フィニッシュ（Finish）"
-    price: 5290
+    price: 5500
     capacity: "450個"
     pricePerUnit: "約12円/個"
     rating: 4.81

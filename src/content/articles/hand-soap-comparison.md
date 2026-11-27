@@ -4,7 +4,7 @@ description: "ハンドソープはどれが殺菌力とコスパを両立する
 category: "hand-soap"
 publishedAt: "2026-04-30"
 articleType: "comparison"
-updatedAt: "2026-11-26"
+updatedAt: "2026-11-27"
 products:
   - rank: 1
     name: "ビオレu 薬用 泡ハンドソープ つめかえ用 2L"
@@ -12,8 +12,8 @@ products:
     price: 1495
     capacity: "2L"
     pricePerUnit: "約0.75円/mL"
-    rating: 4.54
-    reviewCount: 13
+    rating: 4.57
+    reviewCount: 14
     features:
       - "素肌と同じ弱酸性で肌にやさしい"
       - "SPT（肌清浄化技術）で汚れをすっきり落とす"
@@ -113,7 +113,7 @@ products:
         label: "Yahoo!"
         url: "https://lohaco.yahoo.co.jp/store/h-lohaco/item/2787233/"
         matchStatus: "pending"
-        updatedAt: "2026-11-26"
+        updatedAt: "2026-11-27"
         price: 720
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/rd-lohaco_2787233"
         available: true
@@ -147,7 +147,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkenko-depart%2F409774.html"
         matchStatus: "matched"
-        updatedAt: "2026-11-26"
+        updatedAt: "2026-11-27"
         price: 440
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/kenko-depart_409774"
         available: true
@@ -239,7 +239,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsantelabo%2Fj0030012.html"
         matchStatus: "matched"
-        updatedAt: "2026-11-26"
+        updatedAt: "2026-11-27"
         price: 737
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/santelabo_j0030012"
         available: true

@@ -4,7 +4,7 @@ description: "紙おむつを新生児用、Sサイズ、Mサイズ、BIG以上�
 category: "diaper"
 publishedAt: "2026-05-05"
 articleType: "comparison"
-updatedAt: "2026-11-26"
+updatedAt: "2026-11-27"
 products:
   - rank: 1
     name: "ムーニー テープ S マシュマロ肌ごこち"
@@ -13,7 +13,7 @@ products:
     capacity: "70枚×4袋"
     pricePerUnit: "約26円/枚"
     rating: 4.85
-    reviewCount: 240
+    reviewCount: 241
     features:
       - "テープタイプの乳幼児向け紙おむつ"
       - "月齢や体重に合わせてサイズを選べる"
@@ -33,7 +33,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Funicharm-yp%2F100642.html"
         matchStatus: "matched"
-        updatedAt: "2026-11-26"
+        updatedAt: "2026-11-27"
         price: 7084
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/unicharm-yp_100642"
         available: true
@@ -100,13 +100,13 @@ products:
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://lohaco.yahoo.co.jp/store/h-lohaco/item/p633769/"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fyamada-denki%2F2873282019.html"
         matchStatus: "pending"
-        updatedAt: "2026-11-24"
-        price: 1990
-        rating: 4.5
-        reviewCount: 6
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/rd-lohaco_p633769"
+        updatedAt: "2026-11-27"
+        price: 8791
+        rating: 0
+        reviewCount: 1
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/yamada-denki_2873282019"
         available: true
   - rank: 4
     name: "パンパース テープ コットンケア"

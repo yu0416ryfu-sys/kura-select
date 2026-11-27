@@ -34,7 +34,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fbetter-tech-life%2Fpvc-2000.html"
         matchStatus: "pending"
-        updatedAt: "2026-11-26"
+        updatedAt: "2026-11-27"
         price: 6775
         rating: 4.72
         reviewCount: 75
@@ -67,7 +67,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fe-gunte%2Fyh734020.html"
         matchStatus: "matched"
-        updatedAt: "2026-11-26"
+        updatedAt: "2026-11-27"
         price: 6776
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/e-gunte_yh734020"
         available: true
@@ -167,7 +167,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fe-gunte%2Fyh8451-1.html"
         matchStatus: "matched"
-        updatedAt: "2026-11-26"
+        updatedAt: "2026-11-27"
         price: 418
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/e-gunte_yh8451-1"
         available: true

@@ -33,7 +33,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhimawari-kaigo%2F10004173.html"
         matchStatus: "matched"
-        updatedAt: "2026-11-25"
+        updatedAt: "2026-11-26"
         price: 7304
         rating: 4.77
         reviewCount: 94
@@ -101,7 +101,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhimawari-kaigo%2Fg00170.html"
         matchStatus: "matched"
-        updatedAt: "2026-11-25"
+        updatedAt: "2026-11-26"
         price: 7722
         rating: 4.5
         reviewCount: 102
@@ -135,7 +135,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhimawari-kaigo%2F5817.html"
         matchStatus: "matched"
-        updatedAt: "2026-11-25"
+        updatedAt: "2026-11-26"
         price: 6336
         rating: 4.51
         reviewCount: 81
@@ -237,7 +237,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhimawari-kaigo%2F5819.html"
         matchStatus: "matched"
-        updatedAt: "2026-11-25"
+        updatedAt: "2026-11-26"
         price: 6336
         rating: 4.68
         reviewCount: 75
@@ -293,7 +293,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fprintus%2Fxins-rps4t-xl20-6.html"
         matchStatus: "pending"
-        updatedAt: "2026-11-25"
+        updatedAt: "2026-11-26"
         price: 11999
         rating: 0
         reviewCount: 0
@@ -329,7 +329,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fe-kurashi%2Fxy146.html"
         matchStatus: "matched"
-        updatedAt: "2026-11-25"
+        updatedAt: "2026-11-26"
         price: 3779
         rating: 4.44
         reviewCount: 50

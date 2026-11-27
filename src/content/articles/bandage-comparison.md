@@ -4,7 +4,7 @@ description: "絆創膏（ばんそうこう）のおすすめ8選を1枚あた�
 category: "bandage"
 publishedAt: "2026-06-30"
 articleType: "comparison"
-updatedAt: "2026-11-26"
+updatedAt: "2026-11-27"
 draft: false
 products:
   - rank: 1
@@ -34,8 +34,8 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftsuruha%2F10008242.html"
-        matchStatus: "pending"
-        updatedAt: "2026-10-25"
+        matchStatus: "matched"
+        updatedAt: "2026-11-26"
         price: 188
         rating: 3.92
         reviewCount: 12
@@ -67,13 +67,13 @@ products:
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ffines-f%2F4560309820687.html"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fn-yakuhin%2F4560309820687-1kea.html"
         matchStatus: "pending"
-        updatedAt: "2026-10-25"
-        price: 178
+        updatedAt: "2026-11-26"
+        price: 440
         rating: 0
-        reviewCount: 1
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/fines-f_4560309820687"
+        reviewCount: 0
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/n-yakuhin_4560309820687-1kea"
         available: true
   - rank: 3
     name: "リバテープ 救急ばんそうこう Mサイズ 100枚"
@@ -102,8 +102,8 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://lohaco.yahoo.co.jp/store/h-lohaco/item/3331455/"
-        matchStatus: "pending"
-        updatedAt: "2026-10-25"
+        matchStatus: "matched"
+        updatedAt: "2026-11-26"
         price: 698
         rating: 4.57
         reviewCount: 53
@@ -137,7 +137,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsoukai%2F4987059002680.html"
         matchStatus: "matched"
-        updatedAt: "2026-11-03"
+        updatedAt: "2026-11-26"
         price: 778
         rating: 5
         reviewCount: 7
@@ -171,7 +171,7 @@ products:
         label: "Yahoo!"
         url: "https://lohaco.yahoo.co.jp/store/h-lohaco/item/wxj9152/"
         matchStatus: "matched"
-        updatedAt: "2026-11-14"
+        updatedAt: "2026-11-26"
         price: 1071
         rating: 0
         reviewCount: 0
@@ -204,7 +204,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftsuruha%2F10092408.html"
         matchStatus: "matched"
-        updatedAt: "2026-11-25"
+        updatedAt: "2026-11-26"
         price: 1022
         rating: 4.93
         reviewCount: 98
@@ -214,7 +214,7 @@ products:
   - rank: 7
     name: "ケアリーヴ 防水タイプ Mサイズ 40枚"
     brand: "ニチバン（ケアリーヴ）"
-    price: 1013
+    price: 1004
     capacity: "40枚"
     pricePerUnit: "約25円/枚"
     rating: 4.79
@@ -239,7 +239,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftsuruha%2F10053802.html"
         matchStatus: "matched"
-        updatedAt: "2026-11-25"
+        updatedAt: "2026-11-26"
         price: 498
         rating: 4
         reviewCount: 6
@@ -272,7 +272,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fbeisia%2F4987603464520.html"
         matchStatus: "matched"
-        updatedAt: "2026-11-25"
+        updatedAt: "2026-11-26"
         price: 580
         rating: 0
         reviewCount: 0

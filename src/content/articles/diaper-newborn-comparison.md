@@ -4,7 +4,7 @@ description: "新生児用の紙おむつを1枚あたりの価格で比較。�
 category: "diaper"
 publishedAt: "2026-05-16"
 articleType: "comparison"
-updatedAt: "2026-11-26"
+updatedAt: "2026-11-27"
 products:
   - rank: 1
     name: "ムーニー マシュマロ肌ごこち テープ 新生児"
@@ -135,7 +135,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fbeisia%2F4901301437693x4.html"
         matchStatus: "matched"
-        updatedAt: "2026-11-25"
+        updatedAt: "2026-11-27"
         price: 6920
         rating: 4.9
         reviewCount: 21
@@ -169,7 +169,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fnetbaby%2F4903111123247.html"
         matchStatus: "matched"
-        updatedAt: "2026-11-25"
+        updatedAt: "2026-11-27"
         price: 4494
         rating: 0
         reviewCount: 1
@@ -237,7 +237,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftokimekiya777%2Fcos02652.html"
         matchStatus: "pending"
-        updatedAt: "2026-11-25"
+        updatedAt: "2026-11-27"
         price: 4590
         rating: 4.67
         reviewCount: 3
@@ -273,8 +273,8 @@ products:
     price: 3190
     capacity: "36枚（サイズ1・2〜4kg）"
     pricePerUnit: "約89円/枚"
-    rating: 4.73
-    reviewCount: 71
+    rating: 4.74
+    reviewCount: 72
     features:
       - "オーガニック系のプレミアム紙おむつ"
       - "テープ/パンツの案内がある海外ブランド"

@@ -101,7 +101,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fy-kojima%2F4901422153502.html"
         matchStatus: "matched"
-        updatedAt: "2026-11-26"
+        updatedAt: "2026-11-27"
         price: 490
         rating: 4.86
         reviewCount: 7
@@ -169,7 +169,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftanomail%2F9649965.html"
         matchStatus: "matched"
-        updatedAt: "2026-11-26"
+        updatedAt: "2026-11-27"
         price: 1379
         rating: 5
         reviewCount: 3
@@ -270,8 +270,8 @@ products:
         label: "Yahoo!"
         url: "https://lohaco.yahoo.co.jp/store/h-lohaco/item/j662098/"
         matchStatus: "matched"
-        updatedAt: "2026-11-26"
-        price: 1416
+        updatedAt: "2026-11-27"
+        price: 1298
         rating: 4.69
         reviewCount: 678
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/rd-lohaco_j662098"

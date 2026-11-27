@@ -4,7 +4,7 @@ description: "ロイヤルカナン・グレインフリーなど人気キャッ
 category: "cat-food"
 publishedAt: "2026-05-27"
 articleType: "comparison"
-updatedAt: "2026-11-26"
+updatedAt: "2026-11-27"
 draft: false
 products:
   - rank: 1
@@ -132,7 +132,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftierheim-ps%2Fc-2799-800-2.html"
         matchStatus: "matched"
-        updatedAt: "2026-11-25"
+        updatedAt: "2026-11-27"
         price: 6000
         rating: 0
         reviewCount: 0
@@ -220,7 +220,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fbeisia%2F4902201210980.html"
         matchStatus: "matched"
-        updatedAt: "2026-11-25"
+        updatedAt: "2026-11-27"
         price: 3207
         rating: 0
         reviewCount: 0
@@ -252,10 +252,10 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsweet-pet%2F77687310.html"
         matchStatus: "pending"
-        updatedAt: "2026-11-25"
+        updatedAt: "2026-11-27"
         price: 5759
         rating: 4.67
-        reviewCount: 396
+        reviewCount: 397
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/sweet-pet_77687310"
         available: true
     priceMax: 21598
@@ -299,7 +299,7 @@ products:
     price: 3980
     capacity: "2kg"
     rating: 4.72
-    reviewCount: 1109
+    reviewCount: 1111
     features:
       - "12種類から1つを選ぶ出品で、どれも2kg"
       - "室内猫アダルト・子猫用・エイジングケア・穀物フリー・毛玉ケア・減量用などがある"
@@ -318,7 +318,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fnutro-galenus%2F841762198.html"
         matchStatus: "matched"
-        updatedAt: "2026-11-25"
+        updatedAt: "2026-11-27"
         price: 3980
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/nutro-galenus_841762198"
         available: true

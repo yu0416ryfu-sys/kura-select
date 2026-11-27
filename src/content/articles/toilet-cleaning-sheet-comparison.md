@@ -238,7 +238,7 @@ products:
         label: "Yahoo!"
         url: "https://lohaco.yahoo.co.jp/store/h-lohaco/item/jww8080/"
         matchStatus: "pending"
-        updatedAt: "2026-11-26"
+        updatedAt: "2026-11-27"
         price: 1620
         rating: 0
         reviewCount: 0

@@ -33,8 +33,8 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsoukai%2F4901133719240.html"
-        matchStatus: "pending"
-        updatedAt: "2026-11-25"
+        matchStatus: "matched"
+        updatedAt: "2026-11-27"
         price: 5425
         rating: 4.79
         reviewCount: 14
@@ -68,7 +68,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fbestone1%2Fyk6015-a2511.html"
         matchStatus: "pending"
-        updatedAt: "2026-11-25"
+        updatedAt: "2026-11-27"
         price: 1679
         rating: 0
         reviewCount: 2
@@ -122,13 +122,13 @@ products:
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fpetgo-2nd%2F4902201218627.html"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fchanet%2F359535.html"
         matchStatus: "pending"
-        updatedAt: "2026-11-25"
-        price: 3865
-        rating: 4.8
-        reviewCount: 10
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/petgo-2nd_4902201218627"
+        updatedAt: "2026-11-27"
+        price: 3478
+        rating: 0
+        reviewCount: 2
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/chanet_359535"
         available: true
   - rank: 5
     name: "キットキャット パーピューレ ツナ おかか 15g×4本"
@@ -157,9 +157,9 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Firisplaza%2F7290592.html"
-        matchStatus: "pending"
-        updatedAt: "2026-11-25"
-        price: 360
+        matchStatus: "matched"
+        updatedAt: "2026-11-27"
+        price: 550
         rating: 0
         reviewCount: 0
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/irisplaza_7290592"

@@ -4,7 +4,7 @@ description: "ハイドロコロイド絆創膏のおすすめ7選を1枚あた�
 category: "bandage"
 publishedAt: "2026-09-23"
 articleType: "comparison"
-updatedAt: "2026-11-24"
+updatedAt: "2026-11-27"
 draft: false
 products:
   - rank: 1
@@ -35,7 +35,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fnisshodrug%2F4955574823646.html"
         matchStatus: "pending"
-        updatedAt: "2026-11-26"
+        updatedAt: "2026-11-27"
         price: 2598
         rating: 0
         reviewCount: 0
@@ -150,7 +150,7 @@ products:
     capacity: "20枚（10枚入×2コセット）"
     pricePerUnit: "約75円/枚"
     rating: 4.65
-    reviewCount: 184
+    reviewCount: 185
     features:
       - "ハイドロコロイド素材で傷口の湿潤環境を保つ救急用パッド"
       - "水や汚れの侵入を防ぐ防水設計"
@@ -238,7 +238,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fladydrugheartshop-ni%2F34901730077002.html"
         matchStatus: "matched"
-        updatedAt: "2026-11-24"
+        updatedAt: "2026-11-27"
         price: 1329
         rating: 0
         reviewCount: 0

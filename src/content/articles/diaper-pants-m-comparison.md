@@ -34,7 +34,7 @@ products:
         label: "Yahoo!"
         url: "https://lohaco.yahoo.co.jp/store/h-lohaco/item/p648079/"
         matchStatus: "matched"
-        updatedAt: "2026-11-22"
+        updatedAt: "2026-11-27"
         price: 4884
         rating: 4.78
         reviewCount: 296
@@ -102,7 +102,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftry3%2F4901301443502-2.html"
         matchStatus: "pending"
-        updatedAt: "2026-11-22"
+        updatedAt: "2026-11-27"
         price: 13373
         rating: 0
         reviewCount: 0
@@ -137,7 +137,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftravel-depart%2Fc144-oki.html"
         matchStatus: "pending"
-        updatedAt: "2026-11-22"
+        updatedAt: "2026-11-27"
         price: 8480
         rating: 0
         reviewCount: 0
@@ -170,7 +170,7 @@ products:
         label: "Yahoo!"
         url: "https://lohaco.yahoo.co.jp/store/h-lohaco/item/au51038/"
         matchStatus: "matched"
-        updatedAt: "2026-11-22"
+        updatedAt: "2026-11-27"
         price: 7122
         rating: 4.92
         reviewCount: 12
@@ -205,7 +205,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fyamada-denki%2F2873284013.html"
         matchStatus: "pending"
-        updatedAt: "2026-11-22"
+        updatedAt: "2026-11-27"
         price: 6593
         rating: 4.2
         reviewCount: 5
@@ -237,13 +237,13 @@ products:
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fotogizakka%2Fnoaf6b7bdef3.html"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fat-tree%2F101-r001-4987176136138.html"
         matchStatus: "pending"
-        updatedAt: "2026-11-22"
-        price: 3196
+        updatedAt: "2026-11-27"
+        price: 2486
         rating: 0
         reviewCount: 0
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/otogizakka_noaf6b7bdef3"
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/at-tree_101-r001-4987176136138"
         available: true
 tags:
   - "パンツ型おむつ おすすめ"

@@ -4,7 +4,7 @@ description: "ゴミ袋はどれがコスパよくお得？45L・20Lの人気8�
 category: "garbage-bag"
 publishedAt: "2026-04-29"
 articleType: "comparison"
-updatedAt: "2026-11-26"
+updatedAt: "2026-11-27"
 products:
   - rank: 1
     name: "TANOSEE　ゴミ袋エコノミー　乳白半透明"
@@ -33,7 +33,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftanomail%2F7661730.html"
         matchStatus: "matched"
-        updatedAt: "2026-11-24"
+        updatedAt: "2026-11-27"
         price: 7656
         rating: 4.7
         reviewCount: 46
@@ -80,8 +80,8 @@ products:
     price: 2020
     capacity: "100枚×2小箱（200枚）"
     pricePerUnit: "約10円/枚"
-    rating: 4.64
-    reviewCount: 214
+    rating: 4.65
+    reviewCount: 215
     features:
       - "楽天市場で取り扱いのある追加候補"
       - "日用品として使いやすい定番タイプ"

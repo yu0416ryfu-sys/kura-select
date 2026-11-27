@@ -4,7 +4,7 @@ description: "デンタルプロ・GUMなど人気ブランドの歯間ブラシ
 category: "toothpaste"
 publishedAt: "2026-05-27"
 articleType: "comparison"
-updatedAt: "2026-11-26"
+updatedAt: "2026-11-27"
 draft: false
 products:
   - rank: 1
@@ -35,7 +35,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fippo0709%2F10073035-03-01.html"
         matchStatus: "matched"
-        updatedAt: "2026-11-26"
+        updatedAt: "2026-11-27"
         price: 1392
         rating: 4.6
         reviewCount: 5
@@ -69,7 +69,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fd-fit%2F107212.html"
         matchStatus: "matched"
-        updatedAt: "2026-11-26"
+        updatedAt: "2026-11-27"
         price: 200
         rating: 4.45
         reviewCount: 56
@@ -102,7 +102,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fladydrugheartshop%2F4901616216099.html"
         matchStatus: "matched"
-        updatedAt: "2026-11-26"
+        updatedAt: "2026-11-27"
         price: 246
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/ladydrugheartshop_4901616216099"
         available: true
@@ -159,7 +159,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fgoodsania%2F4973227834634.html"
         matchStatus: "matched"
-        updatedAt: "2026-11-26"
+        updatedAt: "2026-11-27"
         price: 267
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/goodsania_4973227834634"
         available: true
@@ -230,7 +230,7 @@ products:
     capacity: "4本×4個"
     pricePerUnit: "約113円/本"
     rating: 4.88
-    reviewCount: 97
+    reviewCount: 98
     features:
       - "L字型（110°のアングル・85mm のホルダー）"
       - "「超合金SAワイヤー」を採用し、4S〜LL から選べる"
@@ -251,10 +251,10 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fi-ha%2F24000005.html"
         matchStatus: "matched"
-        updatedAt: "2026-11-24"
+        updatedAt: "2026-11-27"
         price: 1950
         rating: 4.79
-        reviewCount: 389
+        reviewCount: 390
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/i-ha_24000005"
         available: true
 tags:

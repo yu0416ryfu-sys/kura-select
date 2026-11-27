@@ -270,14 +270,14 @@ products:
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://lohaco.yahoo.co.jp/store/h-lohaco/item/ax13762/"
+        url: "https://lohaco.yahoo.co.jp/store/h-lohaco/item/ax13746/"
         matchStatus: "pending"
-        updatedAt: "2026-11-24"
-        price: 698
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/rd-lohaco_ax13762"
+        updatedAt: "2026-11-27"
+        price: 668
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/rd-lohaco_ax13746"
         available: true
-        rating: 4
-        reviewCount: 8
+        rating: 4.31
+        reviewCount: 13
     genreId: "216012"
   - rank: 9
     name: "髪の毛トリトリ イージーネット 4枚×10袋（40枚）"
@@ -306,7 +306,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fstrade-web%2F3s450309-10m.html"
         matchStatus: "matched"
-        updatedAt: "2026-11-24"
+        updatedAt: "2026-11-27"
         price: 2200
         rating: 0
         reviewCount: 0

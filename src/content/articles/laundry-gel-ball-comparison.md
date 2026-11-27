@@ -4,7 +4,7 @@ description: "ジェルボール洗剤を1個あたりのコストで比較し�
 category: "laundry-detergent"
 publishedAt: "2026-05-05"
 articleType: "comparison"
-updatedAt: "2026-11-26"
+updatedAt: "2026-11-27"
 products:
   - rank: 1
     name: "アリエール ジェルボール4D 微香 詰め替え メガジャンボ"
@@ -306,8 +306,8 @@ products:
     brand: "P&G（アリエール）"
     price: 3980
     capacity: "100個"
-    rating: 4.74
-    reviewCount: 50
+    rating: 4.75
+    reviewCount: 51
     features:
       - "1袋の入り数が最大級のテラジャンボサイズ"
       - "部屋干しと運動着の両方を想定した処方"

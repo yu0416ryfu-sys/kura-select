@@ -4,7 +4,7 @@ description: "歯磨き粉をフッ素濃度・成分・コスパで徹底比較
 category: "toothpaste"
 publishedAt: "2026-04-29"
 articleType: "comparison"
-updatedAt: "2026-11-26"
+updatedAt: "2026-11-27"
 products:
   - rank: 1
     name: "クリニカ アドバンテージ ハミガキ クールミント 130g×3本"
@@ -35,7 +35,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsoukai%2F65916.html"
         matchStatus: "matched"
-        updatedAt: "2026-11-26"
+        updatedAt: "2026-11-27"
         price: 1322
         rating: 0
         reviewCount: 0
@@ -68,7 +68,7 @@ products:
         label: "Yahoo!"
         url: "https://lohaco.yahoo.co.jp/store/h-lohaco/item/1898149/"
         matchStatus: "matched"
-        updatedAt: "2026-11-26"
+        updatedAt: "2026-11-27"
         price: 740
         rating: 4.58
         reviewCount: 26
@@ -82,7 +82,7 @@ products:
     capacity: "100g"
     pricePerUnit: "約13円/g"
     rating: 4.3
-    reviewCount: 11105
+    reviewCount: 11106
     features:
       - "炭酸カルシウムとヒドロキシアパタイトを研磨剤に使うペースト（化粧品）"
       - "フッ素とラウリル硫酸ナトリウムを使わない処方"
@@ -103,7 +103,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fru-collagen%2F007.html"
         matchStatus: "matched"
-        updatedAt: "2026-11-26"
+        updatedAt: "2026-11-27"
         price: 1298
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/ru-collagen_007"
         available: true
@@ -117,7 +117,7 @@ products:
     capacity: "パウダー5g + ペースト15g（計20g）"
     pricePerUnit: "約16.4円/g"
     rating: 4.19
-    reviewCount: 4758
+    reviewCount: 4759
     features:
       - "キラルンのパウダー5gとペースト15gを試せるサンプルサイズ"
       - "どちらも炭酸カルシウムとヒドロキシアパタイトを研磨剤に使う"
@@ -197,7 +197,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fru-collagen%2F008.html"
         matchStatus: "matched"
-        updatedAt: "2026-11-26"
+        updatedAt: "2026-11-27"
         price: 1254
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/ru-collagen_008"
         available: true

@@ -4,7 +4,7 @@ description: "ヘアボーテ・レフィーネ・KUROなど市販の白髪染�
 category: "hair-color"
 publishedAt: "2026-05-27"
 articleType: "comparison"
-updatedAt: "2026-11-26"
+updatedAt: "2026-11-27"
 draft: false
 products:
   - rank: 1
@@ -61,7 +61,7 @@ products:
     capacity: "500g"
     pricePerUnit: "約13円/g"
     rating: 4.54
-    reviewCount: 715
+    reviewCount: 716
     features:
       - "化粧品のマニキュアタイプ染毛料で、髪の表面に色をつける（HC染料・塩基性染料・天然色素）"
       - "パラフェニレンジアミンなどの酸化染料は使っていないと表示"
@@ -81,7 +81,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fpeacehair%2Fsai500gset.html"
         matchStatus: "matched"
-        updatedAt: "2026-11-26"
+        updatedAt: "2026-11-27"
         price: 6600
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/peacehair_sai500gset"
         available: true
@@ -130,7 +130,7 @@ products:
     capacity: "350g"
     pricePerUnit: "約16円/g"
     rating: 4.28
-    reviewCount: 3169
+    reviewCount: 3172
     features:
       - "シャンプー・トリートメント・白髪染めを1本にしたクリームシャンプー（350g）"
       - "塩基性染料・HC染料に炭を配合（成分表示）"
@@ -149,7 +149,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fibiki-kenkyujyo%2Faz711.html"
         matchStatus: "matched"
-        updatedAt: "2026-11-26"
+        updatedAt: "2026-11-27"
         price: 5478
         rating: 4.17
         reviewCount: 1223
@@ -186,7 +186,7 @@ products:
     capacity: "3個"
     pricePerUnit: "約5808円/個"
     rating: 4.53
-    reviewCount: 1760
+    reviewCount: 1761
     features:
       - "KUROクリームシャンプー400gの3本セット（メーカー公式店）"
       - "黒3本・茶3本・黒2本と茶1本・茶2本と黒1本の4通りから選べる"
@@ -249,7 +249,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsvenson%2Fhsrfl.html"
         matchStatus: "matched"
-        updatedAt: "2026-11-26"
+        updatedAt: "2026-11-27"
         price: 7700
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/svenson_hsrfl"
         available: true

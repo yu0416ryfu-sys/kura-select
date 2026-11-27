@@ -55,13 +55,13 @@ products:
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://lohaco.yahoo.co.jp/store/h-lohaco3/item/ua39643/"
+        url: "https://lohaco.yahoo.co.jp/store/h-lohaco3/item/ua39641/"
         matchStatus: "pending"
-        updatedAt: "2026-11-24"
-        price: 2508
+        updatedAt: "2026-11-27"
+        price: 2178
         rating: 0
         reviewCount: 0
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/rd-lohaco3_ua39643"
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/rd-lohaco3_ua39641"
         available: true
     genreId: "215927"
   - rank: 3

@@ -4,7 +4,7 @@ description: "おむつ・生ゴミ用の防臭袋おすすめ9選をコスパ�
 category: "deodorizing-bag"
 publishedAt: "2026-07-28"
 articleType: "comparison"
-updatedAt: "2026-11-26"
+updatedAt: "2026-11-27"
 draft: false
 products:
   - rank: 1
@@ -48,7 +48,7 @@ products:
     capacity: "300枚"
     pricePerUnit: "約3.8円/枚"
     rating: 4.77
-    reviewCount: 843
+    reviewCount: 845
     features:
       - "本来は食パン用のポリプロピレン製袋"
       - "厚みのあるPP素材で口を結んで密閉しやすい"
@@ -82,7 +82,7 @@ products:
     capacity: "300枚"
     pricePerUnit: "約6.6円/枚"
     rating: 4.52
-    reviewCount: 326
+    reviewCount: 327
     features:
       - "袋の口が広く作られた汎用タイプの防臭袋"
       - "おむつと生ゴミの両方を想定した仕様"

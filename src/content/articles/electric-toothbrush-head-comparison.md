@@ -103,7 +103,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fdistore%2Feb50rx-16.html"
         matchStatus: "matched"
-        updatedAt: "2026-11-24"
+        updatedAt: "2026-11-27"
         price: 8480
         rating: 0
         reviewCount: 2
@@ -137,7 +137,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fksdenki%2F4549980443545.html"
         matchStatus: "matched"
-        updatedAt: "2026-11-24"
+        updatedAt: "2026-11-27"
         price: 1188
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/ksdenki_4549980443545"
         available: true
@@ -169,14 +169,14 @@ products:
     offers:
       - provider: "yahoo"
         label: "Yahoo!"
-        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Foralb-braun%2Fultimate2-4-p.html"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Foralb-braun%2Fgentle2-4-p.html"
         matchStatus: "pending"
-        updatedAt: "2026-11-24"
+        updatedAt: "2026-11-27"
         price: 8338
-        imageUrl: "https://item-shopping.c.yimg.jp/i/j/oralb-braun_ultimate2-4-p"
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/oralb-braun_gentle2-4-p"
         available: true
-        rating: 4.65
-        reviewCount: 48
+        rating: 4.79
+        reviewCount: 14
     genreId: "201528"
   - rank: 7
     name: "オーラルB iO専用 替えブラシ ラディアントホワイト 2本"
@@ -205,7 +205,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fi-ha%2F27000052.html"
         matchStatus: "matched"
-        updatedAt: "2026-11-26"
+        updatedAt: "2026-11-27"
         price: 3300
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/i-ha_27000052"
         available: true
@@ -272,7 +272,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fninestars%2Fse4-br.html"
         matchStatus: "pending"
-        updatedAt: "2026-11-26"
+        updatedAt: "2026-11-27"
         price: 3408
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/ninestars_se4-br"
         available: true

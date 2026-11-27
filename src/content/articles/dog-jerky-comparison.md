@@ -151,8 +151,8 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkyusyusangyou%2Fdotwan-008.html"
-        matchStatus: "pending"
-        updatedAt: "2026-11-26"
+        matchStatus: "matched"
+        updatedAt: "2026-11-27"
         price: 1199
         rating: 4.96
         reviewCount: 23

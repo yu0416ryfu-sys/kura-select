@@ -4,7 +4,7 @@ description: "重曹・セスキ炭酸ソーダ・クエン酸などのナチュ
 category: "natural-cleaning"
 articleType: "comparison"
 publishedAt: "2026-06-09"
-updatedAt: "2026-11-26"
+updatedAt: "2026-11-27"
 draft: false
 products:
   - rank: 1
@@ -34,7 +34,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fnichiga%2Fsesuki25.html"
         matchStatus: "matched"
-        updatedAt: "2026-11-26"
+        updatedAt: "2026-11-27"
         price: 7980
         rating: 4.67
         reviewCount: 135
@@ -48,7 +48,7 @@ products:
     capacity: "15kg"
     pricePerUnit: "約362円/kg"
     rating: 4.85
-    reviewCount: 723
+    reviewCount: 725
     features:
       - "セスキ炭酸ソーダ（炭酸水素ナトリウム）を主成分とするアルカリ性洗浄剤"
       - "5kg×3袋の小分けパッケージによる大容量セット"
@@ -68,7 +68,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fnichiga%2Fsesuki15.html"
         matchStatus: "matched"
-        updatedAt: "2026-11-26"
+        updatedAt: "2026-11-27"
         price: 5430
         rating: 4.85
         reviewCount: 116

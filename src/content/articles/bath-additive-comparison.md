@@ -4,7 +4,7 @@ description: "入浴剤を1回あたりのコストで徹底比較。バスク�
 category: "bath-additive"
 publishedAt: "2026-05-01"
 articleType: "comparison"
-updatedAt: "2026-11-26"
+updatedAt: "2026-11-27"
 products:
   - rank: 1
     name: "入浴剤 バラエティ詰め合わせ 100個セット"
@@ -232,7 +232,7 @@ products:
     price: 2300
     capacity: "750g（30回分）"
     rating: 4.68
-    reviewCount: 7184
+    reviewCount: 7185
     features:
       - "水素化ホウ素Na・炭酸水素Naなどを配合した水素入浴料"
       - "無香料の国産品で、商品区分は化粧品"

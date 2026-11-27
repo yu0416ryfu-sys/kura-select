@@ -4,7 +4,7 @@ description: "吸水性と速乾性で選ぶバスマット比較。マイクロ
 category: "bath-mat"
 publishedAt: "2026-05-17"
 articleType: "comparison"
-updatedAt: "2026-11-26"
+updatedAt: "2026-11-27"
 draft: false
 products:
   - rank: 1
@@ -34,7 +34,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ftaorunomori%2F10001288.html"
         matchStatus: "matched"
-        updatedAt: "2026-11-22"
+        updatedAt: "2026-11-26"
         price: 990
         rating: 4.43
         reviewCount: 206
@@ -104,10 +104,10 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fbroome%2F0215-0212-0101.html"
         matchStatus: "matched"
-        updatedAt: "2026-10-25"
-        price: 1980
+        updatedAt: "2026-11-26"
+        price: 1880
         rating: 4.54
-        reviewCount: 290
+        reviewCount: 294
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/broome_0215-0212-0101"
         available: true
     genreId: "100650"
@@ -139,10 +139,10 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fm-rug%2F712421510.html"
         matchStatus: "matched"
-        updatedAt: "2026-07-29"
-        price: 6050
+        updatedAt: "2026-11-26"
+        price: 5445
         rating: 4.62
-        reviewCount: 302
+        reviewCount: 303
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/m-rug_712421510"
         available: true
     genreId: "100650"
@@ -173,8 +173,8 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fd-fit%2F49149.html"
-        matchStatus: "pending"
-        updatedAt: "2026-10-25"
+        matchStatus: "matched"
+        updatedAt: "2026-11-26"
         price: 11000
         rating: 4.68
         reviewCount: 53
@@ -208,11 +208,11 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fhimjp%2F10000010a.html"
-        matchStatus: "pending"
-        updatedAt: "2026-10-25"
+        matchStatus: "matched"
+        updatedAt: "2026-11-26"
         price: 1880
-        rating: 4.62
-        reviewCount: 1065
+        rating: 4.61
+        reviewCount: 1076
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/himjp_10000010a"
         available: true
   - rank: 7
@@ -244,7 +244,7 @@ products:
     price: 7480
     capacity: "1枚"
     rating: 4.59
-    reviewCount: 29451
+    reviewCount: 29452
     features:
       - "国産珪藻土・消石灰・パルプ繊維などの板状バスマット（約42.5×57.5cm・厚さ9mm・約1.8kg）"
       - "日本製・発売開始以来アスベスト不使用"

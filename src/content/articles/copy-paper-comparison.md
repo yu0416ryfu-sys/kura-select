@@ -35,10 +35,10 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fofficetrust%2F014000.html"
         matchStatus: "matched"
-        updatedAt: "2026-11-25"
+        updatedAt: "2026-11-27"
         price: 3979
         rating: 4.68
-        reviewCount: 1914
+        reviewCount: 1915
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/officetrust_014000"
         available: true
   - rank: 2
@@ -68,8 +68,8 @@ products:
       - provider: "yahoo"
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fpetkan%2F9122182.html"
-        matchStatus: "pending"
-        updatedAt: "2026-11-25"
+        matchStatus: "matched"
+        updatedAt: "2026-11-27"
         price: 5020
         rating: 4.59
         reviewCount: 71
@@ -103,7 +103,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fmagokorooroshi%2F24000.html"
         matchStatus: "pending"
-        updatedAt: "2026-11-25"
+        updatedAt: "2026-11-27"
         price: 2920
         rating: 5
         reviewCount: 10
@@ -137,7 +137,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkaumall%2F50122592.html"
         matchStatus: "matched"
-        updatedAt: "2026-11-25"
+        updatedAt: "2026-11-27"
         price: 4510
         rating: 4.4
         reviewCount: 55
@@ -171,10 +171,10 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fcocodecow%2F550592.html"
         matchStatus: "pending"
-        updatedAt: "2026-11-24"
+        updatedAt: "2026-11-27"
         price: 4598
         rating: 4.68
-        reviewCount: 3622
+        reviewCount: 3645
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/cocodecow_550592"
         available: true
   - rank: 6
@@ -205,7 +205,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fcocodecow%2Fy40138.html"
         matchStatus: "matched"
-        updatedAt: "2026-11-24"
+        updatedAt: "2026-11-27"
         price: 4730
         rating: 4.65
         reviewCount: 110
@@ -239,10 +239,10 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fofficetrust%2F014001.html"
         matchStatus: "matched"
-        updatedAt: "2026-11-24"
+        updatedAt: "2026-11-27"
         price: 2286
         rating: 4.57
-        reviewCount: 267
+        reviewCount: 268
         imageUrl: "https://item-shopping.c.yimg.jp/i/j/officetrust_014001"
         available: true
   - rank: 8
@@ -273,7 +273,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkilat%2F9i2113.html"
         matchStatus: "matched"
-        updatedAt: "2026-11-24"
+        updatedAt: "2026-11-27"
         price: 498
         rating: 4.28
         reviewCount: 39
@@ -307,7 +307,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fcocodecow%2F558458.html"
         matchStatus: "matched"
-        updatedAt: "2026-11-24"
+        updatedAt: "2026-11-27"
         price: 2970
         rating: 4.36
         reviewCount: 11

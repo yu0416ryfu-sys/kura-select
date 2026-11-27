@@ -30,6 +30,17 @@ products:
     rakutenUrl: "https://hb.afl.rakuten.co.jp/hgc/g00pxfkn.3rdw6005.g00pxfkn.3rdw7ac5/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkenkoex%2F1197-4987067830008x16%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkenkoex%2Fi%2F10201609%2F&rafcid=wsc_i_is_42b71141-7589-447e-ab9f-1c5e97e9d61f"
     imageUrl: "https://thumbnail.image.rakuten.co.jp/@0_mall/kenkoex/cabinet/1197/361030ddf4d785ee2a_1.jpg?_ex=128x128"
     genreId: "506417"
+    offers:
+      - provider: "yahoo"
+        label: "Yahoo!"
+        url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkenko-ex%2F1197-4987067830008x16.html"
+        matchStatus: "pending"
+        updatedAt: "2026-11-27"
+        price: 9431
+        rating: 4.94
+        reviewCount: 16
+        imageUrl: "https://item-shopping.c.yimg.jp/i/j/kenko-ex_1197-4987067830008x16"
+        available: true
   - rank: 2
     name: "ホッカイロ ぬくぬく日和 貼るレギュラー 30個入×8個"
     brand: "興和"
@@ -58,7 +69,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkenko-ex%2F1197-4987067829705x8.html"
         matchStatus: "matched"
-        updatedAt: "2026-11-24"
+        updatedAt: "2026-11-27"
         price: 5573
         rating: 4.38
         reviewCount: 8
@@ -92,7 +103,7 @@ products:
         label: "Yahoo!"
         url: "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770852&pid=892615315&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkenko-ex%2F1197-4987067829309x8.html"
         matchStatus: "matched"
-        updatedAt: "2026-11-24"
+        updatedAt: "2026-11-27"
         price: 5573
         rating: 5
         reviewCount: 8
